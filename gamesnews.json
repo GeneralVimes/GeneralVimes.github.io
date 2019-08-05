@@ -33,7 +33,11 @@
 				"en":"Open new game"
 			},
 			"link":"http://www.airapport.com/2019/07/bottle-cap-challenge-coming-soon-as.html",
-			"buildGameLink":"904",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/bottle-cap-challenge-2019/id1471320821",
+				"Amazon":"https://www.amazon.com/dp/B07TTQ8L8C/",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.bottlecapchallenge",
+			},
 			
 			"mustSkip":"false"
 		},
@@ -53,7 +57,6 @@
 				"ru":"Открыть Youtube"
 			},
 			"link":"https://www.youtube.com/watch?v=-PwfjEDqXvw"
-				
 		}
 	]
 }
