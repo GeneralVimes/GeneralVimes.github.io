@@ -39,7 +39,7 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.bottlecapchallenge"
 			},
 			
-			"mustSkip":"false"
+			"mustSkip":"true"
 		},
 		{
 			"games":["4"],
@@ -57,6 +57,30 @@
 				"ru":"Открыть Youtube"
 			},
 			"link":"https://www.youtube.com/watch?v=-PwfjEDqXvw"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["903"],
+			"uid":"alchemyTesting",	
+			"caption":{
+				"en":"Test new game!",
+				"ru":"Потестируйте новую игру!"
+			},
+			"message":{
+				"en":"Transmutation is the new mad science idle game from Airapport. Would you like to be the first to test it?",
+				"ru":"Мы готовим к выходу новую айдл игру о безмной науке, Трансмутацию. Хотите первым её потестировать?"
+			},
+			"answer":{
+				"en":"Test new game",
+				"ru":"Открыть игру"
+			},
+			"link":"http://www.airapport.com/2019/06/transmutation-upcoming-game-about.html",
+			"platformLinks":{
+				"iOS":"https://testflight.apple.com/join/ymlHx2fW",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
+			},
+			
+			"mustSkip":"false"			
 		}
 	]
 }
