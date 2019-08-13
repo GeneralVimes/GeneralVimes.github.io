@@ -68,7 +68,7 @@
 			},
 			"message":{
 				"en":"Transmutation is the new mad science idle game from Airapport. Would you like to be the first to test it?",
-				"ru":"Мы готовим к выходу новую айдл игру о безмной науке, Трансмутацию. Хотите первым её потестировать?"
+				"ru":"Мы готовим к выходу новую айдл игру о безумной науке, Трансмутацию. Хотите первым её потестировать?"
 			},
 			"answer":{
 				"en":"Test new game",
@@ -79,6 +79,25 @@
 				"iOS":"https://testflight.apple.com/join/ymlHx2fW",
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
 			},
+			
+			"mustSkip":"false"			
+		},
+		{
+			"games":["all"],
+			"uid":"gdwc1",	
+			"caption":{
+				"en":"People votes!",
+				"ru":"Голосование игроков!"
+			},
+			"message":{
+				"en":"Our game Engineer Millionaire was selected for the Fan Favourite votes by Game Development World Championship! Please, vote for it and help us win!",
+				"ru":"Наша игра Инженер-миллионер (Engineer Millionaire) была выбрана для голосования аудитории на Международном чемпионате по разработке игр! Пожалуйста, проголосуйте за неё и помогите нам победить!"
+			},
+			"answer":{
+				"en":"Vote!",
+				"ru":"Голосовать!"
+			},
+			"link":"https://thegdwc.com/",
 			
 			"mustSkip":"false"			
 		}
