@@ -80,7 +80,7 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
 			},
 			
-			"mustSkip":"false"			
+			"mustSkip":"true"			
 		},
 		{
 			"games":["all"],
@@ -100,6 +100,30 @@
 			"link":"https://thegdwc.com/",
 			
 			"mustSkip":"true"			
+		},
+		{
+			"games":["all"],
+			"excludedgames":["903"],
+			"uid":"alchemyUpd",	
+			"caption":{
+				"en":"Transmutation game updated!",
+				"ru":"Обновилась игра про алхимию!"
+			},
+			"message":{
+				"en":"Transmutation is the new mad science idle game from Airapport. Would you like to be the first to test the new update?",
+				"ru":"Мы подготовили обновление Трансмутации, новой айдл игры о безумной науке. Хотите первым её потестировать?"
+			},
+			"answer":{
+				"en":"Open new game",
+				"ru":"Открыть игру"
+			},
+			"link":"http://www.airapport.com/2019/06/transmutation-upcoming-game-about.html",
+			"platformLinks":{
+				"iOS":"https://testflight.apple.com/join/ymlHx2fW",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
+			},
+			
+			"mustSkip":"false"			
 		}
 	]
 }
