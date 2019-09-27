@@ -124,6 +124,24 @@
 			},
 			
 			"mustSkip":"false"			
+		},
+		{
+			"games":["4"],
+			"uid":"codes4steampunk",	
+			"caption":{
+				"en":"Bonuses for codes!",
+				"ru":"Бонусы за коды!"
+			},
+			"message":{
+				"en":"Did you know that we publish codes, which can give you bonuses? Check them on the developer's website",
+				"ru":"Вы знали, что мы публикуем коды для игры, которые дают бонусы? Посмотрите их на сайте разработчика"
+			},
+			"answer":{
+				"en":"Open the codes",
+				"ru":"Открыть коды"
+			},
+			"link":"https://airapport.itch.io/steampunk-idle-spinner",
+			"mustSkip":"false"			
 		}
 	]
 }
