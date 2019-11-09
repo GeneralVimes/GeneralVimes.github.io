@@ -160,6 +160,22 @@
 			},
 			"link":"https://www.facebook.com/airapport/posts/2416126178423635",
 			"mustSkip":"true"			
+		},
+		{
+			"games":["all"],
+			"uid":"nominationRequest",
+			"caption":{
+				"en":"Nominate our games!"
+			},
+			"message":{
+				"en":"Are you enjoying the game? Please, nominate it for Game of the Year"
+			},
+			"answer":{
+				"en":"Nominate"
+			},
+			"link":"https://www.airapport.com/2019/11/nominate-airapport-games-for-game-of.html",
+			
+			"mustSkip":"false"
 		}
 	]
 }
