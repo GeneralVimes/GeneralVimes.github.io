@@ -175,6 +175,23 @@
 			},
 			"link":"https://www.airapport.com/2019/11/nominate-airapport-games-for-game-of.html",
 			
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["900","901","902"],
+			"uid":"codes1",
+			"caption":{
+				"en":"Boost production!"
+			},
+			"message":{
+				"en":"We are offering codes to boost your production. They are valid May 2nd till 8th"
+			},
+			"answer":{
+				"en":"Get Codes"
+			},
+			"link":"http://www.airapport.com/2020/05/airapport-is-back-in-town-new-gift-codes.html",
+			
 			"mustSkip":"false"
 		}
 	]
