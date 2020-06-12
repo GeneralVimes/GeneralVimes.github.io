@@ -193,6 +193,22 @@
 			"link":"http://www.airapport.com/2020/05/airapport-is-back-in-town-new-gift-codes.html",
 			
 			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"babel",
+			"caption":{
+				"en":"Try our new game!"
+			},
+			"message":{
+				"en":"We proudly present Babel Tower: our new idle game. Build the tower to the sky!"
+			},
+			"answer":{
+				"en":"Play!"
+			},
+			"link":"https://armorgames.com/babel-tower-game/18964",
+			
+			"mustSkip":"false"
 		}
 	]
 }
