@@ -1,0 +1,214 @@
+{
+	"news":[
+		{
+			"games":["4"],
+			"uid":"crystalVideo3",
+			"caption":{
+				"en":"New video!",
+				"ru":"Новое видео!"
+			},
+			"message":{
+				"en":"Great Youtuber Кристалл has reviewed Steampunk Idle Spinner. It's really worth checking his YouTube channel",
+				"ru":"Замечательный ютюбер Кристалл сделал обзор на Steampunk Idle Spinner. Это видео точно стоит посмотреть у него на канале"
+			},
+			"answer":{
+				"en":"Open Youtube",
+				"ru":"Открыть Youtube"
+			},
+			"link":"https://www.youtube.com/watch?v=ATJsk_gr88g"
+			
+		},
+		{
+			"games":["all"],
+			"excludedgames":["905"],
+			"uid":"bottleCapGame",
+			"caption":{
+				"en":"New game!",
+				"ru":"Новая игра!"
+			},
+			"message":{
+				"en":"Have you heard of #BottleCapChallenge? We made a nice game about it, try it"
+			},
+			"answer":{
+				"en":"Open new game"
+			},
+			"link":"http://www.airapport.com/2019/07/bottle-cap-challenge-coming-soon-as.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/bottle-cap-challenge-2019/id1471320821",
+				"Amazon":"https://www.amazon.com/dp/B07TTQ8L8C/",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.bottlecapchallenge"
+			},
+			
+			"mustSkip":"true"
+		},
+		{
+			"games":["4"],
+			"uid":"perpetuumVideo1",
+			"caption":{
+				"en":"New video!",
+				"ru":"Новое видео!"
+			},
+			"message":{
+				"en":"Many thanks to Youtuber Perpetuumworld for the wonderful game review. Be sure to check the review on his channel",
+				"ru":"Благодарим ютюбера Perpetuumworld'a за превосходный обзор игры! Обязательно зайдите к нему на канал и посмотрите"
+			},
+			"answer":{
+				"en":"Open Youtube",
+				"ru":"Открыть Youtube"
+			},
+			"link":"https://www.youtube.com/watch?v=-PwfjEDqXvw"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["903"],
+			"uid":"alchemyTesting",	
+			"caption":{
+				"en":"Test new game!",
+				"ru":"Потестируйте новую игру!"
+			},
+			"message":{
+				"en":"Transmutation is the new mad science idle game from Airapport. Would you like to be the first to test it?",
+				"ru":"Мы готовим к выходу новую айдл игру о безумной науке, Трансмутацию. Хотите первым её потестировать?"
+			},
+			"answer":{
+				"en":"Test new game",
+				"ru":"Открыть игру"
+			},
+			"link":"http://www.airapport.com/2019/06/transmutation-upcoming-game-about.html",
+			"platformLinks":{
+				"iOS":"https://testflight.apple.com/join/ymlHx2fW",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
+			},
+			
+			"mustSkip":"true"			
+		},
+		{
+			"games":["all"],
+			"uid":"gdwc1",	
+			"caption":{
+				"en":"People votes!",
+				"ru":"Голосование игроков!"
+			},
+			"message":{
+				"en":"Our game Engineer Millionaire was selected for the Fan Favourite votes by Game Development World Championship! Please, vote for it and help us win!",
+				"ru":"Наша игра Инженер-миллионер (Engineer Millionaire) была выбрана для голосования аудитории на Международном чемпионате по разработке игр! Пожалуйста, проголосуйте за неё и помогите нам победить!"
+			},
+			"answer":{
+				"en":"Vote!",
+				"ru":"Голосовать!"
+			},
+			"link":"https://thegdwc.com/",
+			
+			"mustSkip":"true"			
+		},
+		{
+			"games":["all"],
+			"excludedgames":["903"],
+			"uid":"alchemyUpd",	
+			"caption":{
+				"en":"Transmutation game updated!",
+				"ru":"Обновилась игра про алхимию!"
+			},
+			"message":{
+				"en":"Transmutation is the new mad science idle game from Airapport. Would you like to be the first to test the new update?",
+				"ru":"Мы подготовили обновление Трансмутации, новой айдл игры о безумной науке. Хотите первым её потестировать?"
+			},
+			"answer":{
+				"en":"Open new game",
+				"ru":"Открыть игру"
+			},
+			"link":"http://www.airapport.com/2019/06/transmutation-upcoming-game-about.html",
+			"platformLinks":{
+				"iOS":"https://testflight.apple.com/join/ymlHx2fW",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.transmutation"
+			},
+			
+			"mustSkip":"false"			
+		},
+		{
+			"games":["4"],
+			"uid":"codes4steampunk",	
+			"caption":{
+				"en":"Bonuses for codes!",
+				"ru":"Бонусы за коды!"
+			},
+			"message":{
+				"en":"Did you know that we publish codes, which can give you bonuses? Check them on the developer's website",
+				"ru":"Вы знали, что мы публикуем коды для игры, которые дают бонусы? Посмотрите их на сайте разработчика"
+			},
+			"answer":{
+				"en":"Open the codes",
+				"ru":"Открыть коды"
+			},
+			"link":"https://airapport.itch.io/steampunk-idle-spinner",
+			"mustSkip":"true"			
+		},
+		{
+			"games":["903"],
+			"uid":"codes4transmutation",	
+			"caption":{
+				"en":"Bonuses for codes!",
+				"ru":"Бонусы за коды!"
+			},
+			"message":{
+				"en":"Did you know that we publish codes, which can give you bonuses? Check them on the developer's website",
+				"ru":"Вы знали, что мы публикуем коды для игры, которые дают бонусы? Посмотрите их на сайте разработчика"
+			},
+			"answer":{
+				"en":"Open the codes",
+				"ru":"Открыть коды"
+			},
+			"link":"https://www.facebook.com/airapport/posts/2416126178423635",
+			"mustSkip":"true"			
+		},
+		{
+			"games":["all"],
+			"uid":"nominationRequest",
+			"caption":{
+				"en":"Nominate our games!"
+			},
+			"message":{
+				"en":"Are you enjoying the game? Please, nominate it for Game of the Year"
+			},
+			"answer":{
+				"en":"Nominate"
+			},
+			"link":"https://www.airapport.com/2019/11/nominate-airapport-games-for-game-of.html",
+			
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["900","901","902"],
+			"uid":"codes1",
+			"caption":{
+				"en":"Boost production!"
+			},
+			"message":{
+				"en":"We are offering codes to boost your production. They are valid May 2nd till 8th"
+			},
+			"answer":{
+				"en":"Get Codes"
+			},
+			"link":"http://www.airapport.com/2020/05/airapport-is-back-in-town-new-gift-codes.html",
+			
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"babel",
+			"caption":{
+				"en":"Try our new game!"
+			},
+			"message":{
+				"en":"We proudly present Babel Tower: our new idle game. Build the tower to the sky!"
+			},
+			"answer":{
+				"en":"Play!"
+			},
+			"link":"https://armorgames.com/babel-tower-game/18964",
+			
+			"mustSkip":"false"
+		}
+	]
+}
