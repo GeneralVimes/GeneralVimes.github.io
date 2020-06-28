@@ -1,7 +1,7 @@
 {
 	"news":[
 		{
-			"games":["3"],
+			"games":["2"],
 			"excludedgames":[""],
 			"uid":"update",
 			"caption":{
@@ -67,7 +67,7 @@
 			"startDate":"16-Jun-2020"
 		},
 		{
-			"games":["3"],
+			"games":["2"],
 			"excludedgames":[""],
 			"uid":"update",
 			"caption":{
