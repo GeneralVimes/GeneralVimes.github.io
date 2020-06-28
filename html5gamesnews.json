@@ -65,6 +65,27 @@
 			],
 			"isObsolete":"false",
 			"startDate":"16-Jun-2020"
-		}
+		},
+		{
+			"games":["3"],
+			"excludedgames":[""],
+			"uid":"update",
+			"caption":{
+				"en":"Content update! 1.0.7",
+				"ru":"Большое обновление! 1.0.7"
+			},
+			"message":{
+				"en":"Thank you for playing and giving excellent suggestions! Meet new machines in v.1.0.7\nWater extractor - gets the water from underground\nCaravanserai - increases the market prices and auto-sells your goods\nHelicopter - drops dynamite to the Quarry to speed up Stone mining\nIf you have already completed floor 8, we recommend you to collect Golden Bricks and restart the building to see the new content\n\nWould you like to suggest your own ideas for the next update?",
+				"ru":"Спасибо, что играете и даёте прекрасные советы! Встречайте новые машины в версии 1.0.7\n\nБур - обывает воду из-под земли\nКараван-сарай - повышает цены на рынке и автоматически продаёт ваши товары\nВертолёт - взрывает камень в карьере, ускоряя его добычу\n\nЕсли вы уже построили этаж 8, мы рекомендуем получить бонус Золотых кирпичей и перезапустить стройку, чтобы воспользоваться новыми элементами\n\nХотите предложить свою идею для следующего обновления?"
+			},
+			"answers":[
+				{
+					"text":{"en":"Email"},
+					"link": "mailto:general@cardswars.com?subject=BabelTower Idea"
+				}
+			],			
+			"startDate":"28-Jun-2020",
+			"endDate":"10-Jul-2020"
+		},		
 	]
 }
