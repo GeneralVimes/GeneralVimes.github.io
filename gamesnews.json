@@ -208,6 +208,22 @@
 			},
 			"link":"https://armorgames.com/babel-tower-game/18964",
 			
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"babelcrazy",
+			"caption":{
+				"en":"Babel Tower updated!"
+			},
+			"message":{
+				"en":"Our newest HTML5 game, Babel Tower, has got massive content update. Build the tower to the sky and beyond!"
+			},
+			"answer":{
+				"en":"Play!"
+			},
+			"link":"https://www.crazygames.com/game/babel-tower",
+			
 			"mustSkip":"false"
 		}
 	]
