@@ -86,6 +86,48 @@
 			],			
 			"startDate":"28-Jun-2020",
 			"endDate":"10-Jul-2020"
-		},		
+		},
+		{
+			"games":["3"],
+			"excludedgames":[""],
+			"uid":"update",
+			"caption":{
+				"en":"Content update! 1.0.8",
+				"ru":"Большое обновление! 1.0.8"
+			},
+			"message":{
+				"en":"Thank you for playing and giving excellent suggestions! In the new version the concept of Science is added. After level 11 you can get Galileo, Laboratory and Telescope, which will boost your following progress. Also many additional tweaks were made\n\nWould you like to suggest your own ideas for the next update?",
+				"ru":"Спасибо, что играете и даёте прекрасные советы! В новой версии включён концепт Науки. После этажа 11 появляются Галлилей, лаборатория и телескоп, они позволят вам ускорить последующий прогресс. \n\nХотите предложить свою идею для следующего обновления?"
+			},
+			"answers":[
+				{
+					"text":{"en":"Email"},
+					"link": "mailto:general@cardswars.com?subject=BabelTower Idea"
+				}
+			],			
+			"startDate":"10-Jul-2020",
+			"endDate":"20-Jul-2020"
+		},	
+		{
+			"games":["3"],
+			"excludedgames":[""],
+			"uid":"update",
+			"caption":{
+				"en":"Livestream from the developer",
+				"ru":"Стрим от разработчика"
+			},
+			"message":{
+				"en":"On Sunday, 12th Jul, the developer of Babel Tower will be streaming the game and discuss the future game development direction. Will be happy to see you, please, join!",
+				"ru":"В воскресенье, 12 июля, разработчик Вавилонской Башни будет вести стрим и обсуждать идеи для дальнейшего развития. Будем рады видеть вас на стриме, присоединяйтесь!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Youtube"},
+					"link": "https://www.youtube.com/watch?v=ocQPnpF9_Go"
+				}
+			],			
+			"startDate":"10-Jul-2020",
+			"endDate":"13-Jul-2020"
+		}		
 	]
 }

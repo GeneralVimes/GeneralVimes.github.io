@@ -224,7 +224,25 @@
 			},
 			"link":"https://www.crazygames.com/game/babel-tower",
 			
-			"mustSkip":"false"
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"babelstream",
+			"caption":{
+				"en":"Livestream from the developer",
+				"ru":"Стрим от разработчика"
+			},
+			"message":{
+				"en":"On Sunday, 12th Jul, the developer of Babel Tower will be streaming the game and discuss the future game development direction. Will be happy to see you, please, join!",
+				"ru":"В воскресенье, 12 июля, разработчик Вавилонской Башни будет вести стрим и обсуждать идеи для дальнейшего развития. Будем рады видеть вас на стриме, присоединяйтесь!"
+			},
+			"answer":{
+				"en":"Youtube!"
+			},
+			"link":"https://www.youtube.com/watch?v=ocQPnpF9_Go",
+			
+			"mustSkip":"true"
 		}
 	]
 }
