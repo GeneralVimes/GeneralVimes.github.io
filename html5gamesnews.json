@@ -128,6 +128,31 @@
 			],			
 			"startDate":"10-Jul-2020",
 			"endDate":"13-Jul-2020"
+		},
+		{
+			"games":["3"],
+			"uid":"mobileVersion",
+			"caption":{
+				"en":"Mobilve version raedy!",
+				"ru":"Готова мобильная версия!"
+			},
+			"message":{
+				"en":"Would you like to play this game on your mobile device?",
+				"ru":"Хотите поиграть в эту игру на вашем мобильном устройстве?"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/idle-tower-builder/id1527621990"
+				},
+				
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=com.airapport.idletowerbuilder"			
+				}
+			],
+			"isObsolete":"false",
+			"startDate":"15-Aug-2020"
 		}		
 	]
 }
