@@ -243,6 +243,30 @@
 			"link":"https://www.youtube.com/watch?v=ocQPnpF9_Go",
 			
 			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["11"],
+			"uid":"idleTowerReleased",
+			"caption":{
+				"en":"New mobile game released!",
+				"ru":"Вышла новая мобильная игра!"
+			},
+			"message":{
+				"en":"Our newest mobile game: Idle Tower Builder, is released! Would you like to install it on your device?",
+				"ru":"Вышла наша новая собильная игра, Idle Tower Builder! Хотите установить её себе?"
+			},
+			"answer":{
+				"en":"Open new game",
+				"ru":"Открыть новую игру"
+			},
+			"link":"https://www.airapport.com/2020/08/idle-tower-builder-released-to-all.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/idle-tower-builder/id1527621990",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.idletowerbuilder"
+			},
+			
+			"mustSkip":"false"
 		}
 	]
 }
