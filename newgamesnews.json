@@ -54,13 +54,13 @@
 				"ru":"Сообщество игроков"
 			},
 			"message":{
-				"en":"You are welcome to join the players' community in Discord",
-				"ru":"Присоединяйтесь к сообществу игроков в Дискорде"
+				"en":"You are welcome to join the players' community in Facebook",
+				"ru":"Присоединяйтесь к сообществу игроков в фейсбуке"
 			},
 			"answers":[
 				{
 					"text":{"en":"Join", "ru":"Присоединиться"},
-					"link": "https://discord.gg/EJ8hPpm"
+					"link": "https://www.facebook.com/groups/steampunkplayers/"
 				}
 			],
 			"isObsolete":"false",
@@ -153,26 +153,6 @@
 			],
 			"isObsolete":"false",
 			"startDate":"15-Aug-2020"
-		},
-		{
-			"games":["3"],
-			"uid":"perpetuum",
-			"caption":{
-				"en":"great video review!",
-				"ru":"Отличный видеообзор!"
-			},
-			"message":{
-				"en":"Great youtuber Perpetuumworld hasAttribute reviewed the game on his channel",
-				"ru":"Змечательный ютубер Perpetuumworld сделал обзор игры на своём канале"
-			},
-			"answers":[
-				{
-					"text":{"en":"Watch","ru":"Смотреть"},
-					"link": "https://www.youtube.com/watch?v=hXoxH6766lY"
-				}
-			],
-			"isObsolete":"false",
-			"startDate":"20-Aug-2020"
 		}		
 	]
 }
