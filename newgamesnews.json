@@ -1,29 +1,25 @@
 {
 	"news":[
 		{
-			"games":["all"],
-			"uid":"modeIdles",
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"perpetuum",
 			"caption":{
-				"en":"More Idle Games!",
-				"ru":"Больше айдлов!"
+				"en":"Great video review!",
+				"ru":"Отличный видеообзор!"
 			},
 			"message":{
-				"en":"Would you like to check more idle games by Airapport?",
-				"ru":"Хотите посмотреть другие наши айдл игры?"
+				"en":"Great youtuber Perpetuumworld hasAttribute reviewed the game on his channel",
+				"ru":"Змечательный ютубер Perpetuumworld сделал обзор игры на своём канале"
 			},
 			"answers":[
 				{
-					"text":{"en":"App Store"},
-					"link": "https://apps.apple.com/us/developer/alexey-izvalov/id1437172357"
-				},
-				
-				{
-					"text":{"en":"Google Play"},
-					"link":	"https://play.google.com/store/apps/dev?id=6075165531768716801"			
+					"text":{"en":"Watch","ru":"Смотреть"},
+					"link": "https://www.youtube.com/watch?v=hXoxH6766lY"
 				}
 			],
 			"isObsolete":"false",
-			"startDate":"16-Jun-2020"
+			"startDate":"20-Aug-2020"
 		},
 		{
 			"games":["all"],
@@ -46,25 +42,34 @@
 			"startDate":"16-Jun-2020"
 		},
 		{
-			"games":["11"],
-			"excludedgames":[""],
-			"uid":"perpetuum",
+			"games":["all"],
+			"uid":"modeIdles",
 			"caption":{
-				"en":"Great video review!",
-				"ru":"Отличный видеообзор!"
+				"en":"More Idle Games!",
+				"ru":"Больше айдлов!"
 			},
 			"message":{
-				"en":"Great youtuber Perpetuumworld hasAttribute reviewed the game on his channel",
-				"ru":"Змечательный ютубер Perpetuumworld сделал обзор игры на своём канале"
+				"en":"Would you like to check more idle games by Airapport?",
+				"ru":"Хотите посмотреть другие наши айдл игры?"
 			},
 			"answers":[
 				{
-					"text":{"en":"Watch","ru":"Смотреть"},
-					"link": "https://www.youtube.com/watch?v=hXoxH6766lY"
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/developer/alexey-izvalov/id1437172357",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/dev?id=6075165531768716801",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
 				}
 			],
 			"isObsolete":"false",
-			"startDate":"20-Aug-2020"
-		}		
+			"startDate":"16-Jun-2020"
+		}
+			
 	]
 }
