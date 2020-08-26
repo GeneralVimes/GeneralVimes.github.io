@@ -173,6 +173,27 @@
 			],
 			"isObsolete":"false",
 			"startDate":"20-Aug-2020"
+		},
+		{
+			"games":["3"],
+			"excludedgames":[""],
+			"uid":"vlad",
+			"caption":{
+				"en":"New video review by Vlad!",
+				"ru":"Новый видеообзор от Влада!"
+			},
+			"message":{
+				"en":"Many thanks to VLAD for the great review of the game!",
+				"ru":"Большое спасибо VLAD'у за отличный обзор игры!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch","ru":"Смотреть"},
+					"link": "https://www.youtube.com/watch?v=cIPjLqgFwiw"
+				}
+			],
+			"isObsolete":"false",
+			"startDate":"20-Aug-2020"
 		}		
 	]
 }
