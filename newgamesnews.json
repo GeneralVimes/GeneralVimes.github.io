@@ -111,6 +111,35 @@
 			],
 			"isObsolete":"false",
 			"startDate":"21-Sep-2020"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"underwaterintower",
+			"caption":{
+				"en":"Have you seen our underwater building game?",
+				"ru":"Вы видели нашу игры про подводное строительство?"
+			},
+			"message":{
+				"en":"In our game 20000 Cogs under the sea you can build many incredible contraptions and discover treasures on the sea bed",
+				"ru":"В нашей игре 20000 шестерйнок под водой вы можете строить разнообразные невероятные приспособления и находить сокровища на дне морском"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://itunes.apple.com/us/app/20000-cogs-under-the-sea/id1441246412",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=air.com.airapport.A20000.cogs.under.sea.nemo.steampunk",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
+				}
+			],
+			"isObsolete":"false"
 		}	
 	]
 }
