@@ -9,7 +9,7 @@
 				"ru":"Отличный видеообзор!"
 			},
 			"message":{
-				"en":"Great youtuber Perpetuumworld hasAttribute reviewed the game on his channel",
+				"en":"Great youtuber Perpetuumworld has reviewed the game on his channel",
 				"ru":"Змечательный ютубер Perpetuumworld сделал обзор игры на своём канале"
 			},
 			"answers":[
@@ -109,8 +109,7 @@
 					"link": "http://www.airapport.com/2020/09/big-content-update-107-for-idle-tower.html"
 				}		
 			],
-			"isObsolete":"false",
-			"startDate":"21-Sep-2020"
+			"isObsolete":"true"
 		},
 		{
 			"games":["11"],
@@ -118,7 +117,7 @@
 			"uid":"underwaterintower",
 			"caption":{
 				"en":"Have you seen our underwater building game?",
-				"ru":"Вы видели нашу игры про подводное строительство?"
+				"ru":"Вы видели нашу игру про подводное строительство?"
 			},
 			"message":{
 				"en":"In our game 20000 Cogs under the sea you can build many incredible contraptions and discover treasures on the sea bed",
@@ -137,6 +136,26 @@
 					"link":	"https://play.google.com/store/apps/details?id=air.com.airapport.A20000.cogs.under.sea.nemo.steampunk",
 					"platforms":["all"],
 					"excludedplatforms":["Apple"]									
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"crystall",
+			"caption":{
+				"en":"Crystal is building the Tower!",
+				"ru":"Кристалл строит башню!"
+			},
+			"message":{
+				"en":"Great youtuber CRYSTAL is playing Idle Tower Builder on his channel. In one of the comments there are 4 game bonus codes",
+				"ru":"Змечательный ютубер Кристалл играет в Idle Tower Builder на своём канале. В одном из комментариев есть 4 бонусных кода"
+			},
+			"answers":[
+				{
+					"text":{"en":"Find code","ru":"Найти код"},
+					"link": "https://www.youtube.com/watch?v=ChiMH3QFgr0"
 				}
 			],
 			"isObsolete":"false"
