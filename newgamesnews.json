@@ -4,6 +4,7 @@
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"perpetuum",
+			"intuid":0,
 			"caption":{
 				"en":"Great video review!",
 				"ru":"Отличный видеообзор!"
@@ -24,6 +25,7 @@
 		{
 			"games":["all"],
 			"uid":"discord",
+			"intuid":1,
 			"caption":{
 				"en":"Players Community",
 				"ru":"Сообщество игроков"
@@ -44,6 +46,7 @@
 		{
 			"games":["all"],
 			"uid":"modeIdles",
+			"intuid":2,
 			"caption":{
 				"en":"More Idle Games!",
 				"ru":"Больше айдлов!"
@@ -74,6 +77,7 @@
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"vlad",
+			"intuid":3,
 			"caption":{
 				"en":"New video review by Vlad!",
 				"ru":"Новый видеообзор от Влада!"
@@ -95,6 +99,7 @@
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"107",
+			"intuid":4,
 			"caption":{
 				"en":"Content update 1.0.7!",
 				"ru":"Большое обновление 1.0.7!"
@@ -109,12 +114,13 @@
 					"link": "http://www.airapport.com/2020/09/big-content-update-107-for-idle-tower.html"
 				}		
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"underwaterintower",
+			"intuid":5,
 			"caption":{
 				"en":"Have you seen our underwater building game?",
 				"ru":"Вы видели нашу игру про подводное строительство?"
@@ -138,27 +144,91 @@
 					"excludedplatforms":["Apple"]									
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"crystall",
+			"intuid":6,
 			"caption":{
 				"en":"Crystal is building the Tower!",
 				"ru":"Кристалл строит башню!"
 			},
 			"message":{
 				"en":"Great youtuber CRYSTAL is playing Idle Tower Builder on his channel. In one of the comments there are 4 game bonus codes",
-				"ru":"Змечательный ютубер Кристалл играет в Idle Tower Builder на своём канале. В одном из комментариев есть 4 бонусных кода"
+				"ru":"Замечательный ютубер Кристалл играет в Idle Tower Builder на своём канале. В одном из комментариев есть 4 бонусных кода"
 			},
 			"answers":[
 				{
 					"text":{"en":"Find code","ru":"Найти код"},
-					"link": "https://www.youtube.com/watch?v=ChiMH3QFgr0"
+					"link": "https://www.youtube.com/watch?v=tbAYzJoMtK0"
 				}
 			],
 			"isObsolete":"false"
-		}	
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"ilusha",
+			"intuid":10,
+			"caption":{
+				"en":"Video review by Ilusha",
+				"ru":"Видеообзор от ИЛЮШИ"
+			},
+			"message":{
+				"en":"Game was reviewed by ИЛЮША. Many thanks from the devs!",
+				"ru":"Игра попала на обзор к ИЛЮШЕ. Выражаем огромную благодарность!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch review","ru":"Смотреть обзор"},
+					"link": "https://www.youtube.com/watch?v=zkYWQ0D-ZFk"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"fady",
+			"intuid":11,
+			"caption":{
+				"en":"Very fun review by Fady",
+				"ru":"Очень весёлый обзор от Fady"
+			},
+			"message":{
+				"en":"Fady played Idle Tower Builder. It was really fun!",
+				"ru":"Фейди поиграл в Idle Tower Builder. Это было очень весело!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch","ru":"Смотреть"},
+					"link": "https://www.youtube.com/watch?v=onjS5yjQssI"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"114",
+			"intuid":12,
+			"caption":{
+				"en":"Content update 1.1.4!",
+				"ru":"Большое обновление 1.1.4!"
+			},
+			"message":{
+				"en":"Big update which expands your tower to the space and undeground. New machines unlocked with floors 18, 19 and 20. If you have already floor 18 in the older version, please, restart the building to gain Golden Bricks bonus, and then then new facilities will be unlocked",
+				"ru":"Большое обновление, которое расширяет башню в космос и под землю. Новые машины открываются с этажами 18, 19 и 20. Если вы уже построили этаж 18 в более старой версии, пожалуйста, сделайте перезапуск строительства, чтобы получить бонусные Золотые кирпичи, и тогда новые здания откроются."
+			},
+			"answers":[
+				{
+					"text":{"en":"Details","ru":"Детально"},
+					"link": "http://www.airapport.com/"
+				}		
+			],
+			"isObsolete":"false"
+		}
 	]
 }
