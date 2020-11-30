@@ -267,6 +267,30 @@
 			},
 			
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["11"],
+			"uid":"snow",
+			"caption":{
+				"en":"Do you want to play with snow?",
+				"ru":"Хотите поиграть со снегом?"
+			},
+			"message":{
+				"en":"As winter starts, we reeased a nice app where you can swipe the screen and play with snowflakes",
+				"ru":"Начинается зима и мы выпустили симпатичное приложение, где можно свайпать по экрану и играть со снежинками"
+			},
+			"answer":{
+				"en":"Launch the snowfall!",
+				"ru":"Начать снегопад!"
+			},
+			"link":"http://www.airapport.com/2020/12/do-you-want-to-play-with-snow.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/zen-snow/id1443577789",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.zensnow"
+			},
+			
+			"mustSkip":"false"
 		}
 	]
 }

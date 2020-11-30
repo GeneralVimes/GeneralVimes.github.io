@@ -194,6 +194,31 @@
 			],
 			"isObsolete":"false",
 			"startDate":"20-Aug-2020"
+		},
+		{
+			"games":["all"],
+			"excludedgames":[""],
+			"uid":"snow",
+			"caption":{
+				"en":"Do you want to play with snow?",
+				"ru":"Хотите поиграть со снегом?"
+			},
+			"message":{
+				"en":"As winter starts, we reeased a nice app where you can swipe the screen and play with snowflakes. Launch the snowfall!",
+				"ru":"Начинается зима и мы выпустили симпатичное приложение, где можно свайпать по экрану и играть со снежинками. Запустите снегопад!"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/zen-snow/id1443577789"
+				},
+				
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=air.com.airapport.zensnow"			
+				}
+			],			
+			"isObsolete":"false"
 		}		
 	]
 }
