@@ -290,7 +290,31 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.zensnow"
 			},
 			
-			"mustSkip":"false"
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["4"],
+			"uid":"steampunk",
+			"caption":{
+				"en":"Check one more construction game by Airapport!",
+				"ru":"Посмотрите ещё одну строительную игру от Airapport!"
+			},
+			"message":{
+				"en":"Steampunk Idle Spinner is the game where you explore the world of mad science and fantastic contraptions. Over 60 different machines and 3 worlds can be unlocked there",
+				"ru":"Steampunk Idle Spinner - это игра, в которой вы исследуете мир безумной науки и фантастических механизмов. В ней можно открыть более 60 механизмов в трёх разных мирах"
+			},
+			"answer":{
+				"en":"Play!",
+				"ru":"Играть!"
+			},
+			"link":"https://www.airapport.com/p/steam.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/steampunk-idle-spinner/id1445575882",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.steampunkidlespinner"
+			},
+			
+			"mustSkip":"true"
 		}
 	]
 }
