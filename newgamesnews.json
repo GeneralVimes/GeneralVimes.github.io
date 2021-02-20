@@ -287,6 +287,28 @@
 				}		
 			],
 			"isObsolete":"false"
-		}
+		},
+		{
+			"games":["11"],
+			"uid":"eiffel",
+			"intuid":17,
+			"caption":{
+				"en":"Eiffel Tower",
+				"ru":"Эйфелева башня"
+			},
+			"message":{
+				"en":"We are working to add Eiffel tower into the game. Would you like to see the current work in progress?",
+				"ru":"Мы работаем над добавлением в игру Эйфелевой башни. Хотите посмотреть на текущий ход работ?",
+				"uk":"Ми працюємо зоб додати до гри Ейфелеву вежу. Хочете подивитися на поточний хід робіт"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch", "ru":"Посмотреть", "uk":"Подивитися"},
+					"link": "https://www.tiktok.com/@airapport/video/6931304573873245445"
+				}
+			],
+			"isObsolete":"false",
+			"startDate":"16-Jun-2020"
+		}		
 	]
 }
