@@ -269,6 +269,36 @@
 				}
 			],			
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"excludedgames":[""],
+			"uid":"rps",
+			"caption":{
+				"en":"Airapport released evolution sandbox game!",
+				"ru":"Airapport выпустил новую игру про эволюцию!",
+				"uk":"Airapport випустив нову гру про эволюцiю!"
+			},
+			"message":{
+				"en":"Evolution Arena is the game where you can see how creatures fight for survival and eat each other",
+				"ru":"В игре Evolution Arena вы можете наблюдать, как существа борятся за пространство и едят друг друга",
+				"uk":"У грі Evolution Arena ви можете спостерігати, як істори змагаються за простір та їдять одне одного"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/evolution-arena/id1567624919",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=com.airapport.evolution.arena.sandbox.rps",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
+				}		
+			],			
+			"isObsolete":"true"
 		}		
 	]
 }
