@@ -335,7 +335,7 @@
 		},
 		{
 			"games":["all"],
-			"excludedgames":[""],
+			"excludedgames":["22"],
 			"uid":"rps",
 			"intuid":19,
 			"caption":{
