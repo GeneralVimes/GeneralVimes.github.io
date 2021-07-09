@@ -364,7 +364,34 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.evolution.arena.sandbox.rps"
 			},
 			
-			"mustSkip":"true"
+			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["12"],
+			"uid":"farm",
+			"caption":{
+				"en":"You are invited to test Farm and Mine, upcomin game by Airapport",
+				"ru":"Вы приглашены потестировать игру Farm and Mine, которую Airapport готовит к выпуску",
+				"uk":"Вас запрошено протестувати гру Farm and Mine, яку Airapport готує до випуску"
+			},
+			"message":{
+				"en":"Farm and Mine is the fusion of farming and mining simulators, with city building. Please, play it and share your impressions",
+				"ru":"Игра Farm and Mine - это объединение симуляторов ферм и шахт, с градостроительством. Пожалуйста, поиграйте в неё и поделитесь мнением",
+				"uk":"Гра Farm and Mine - це об'єднання симуляторів ферм та шахт, з будівлею міста. Будь ласка, пограйте в неї та поділіться думками"
+			},
+			"answer":{
+				"en":"Play!",
+				"ru":"Играть!",
+				"uk":"Грати!"
+			},
+			"link":"https://www.airapport.com/2021/07/new-production-chain-added-to-farm-beta.html",
+			"platformLinks":{
+				"iOS":"https://testflight.apple.com/join/iIZ40BhD",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.farm.mine.idle.ludumdare48"
+			},
+			
+			"mustSkip":"false"
 		}		
 	]
 }
