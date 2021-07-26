@@ -420,6 +420,28 @@
 					"link": "https://discord.gg/XfnJnQF"
 				}		
 			],
+			"isObsolete":"true"
+		},
+		{
+			"games":["12"],
+			"uid":"farm060",
+			"intuid":22,
+			"caption":{
+				"en":"Update of Farm and Mine v.0.6.0",
+				"ru":"Обновление игры Farm and Mine v.0.6.0",
+				"uk":"Оновлення гри Farm and Mine v.0.6.0"
+			},
+			"message":{
+				"en":"Farm and Mine is updated. If you started playing before v.0.6.0, we recommend you to restart building and collect your prestige points to fully unlock the new buildings: Potter's wheel, Forge, Foundry and Lumbermill",
+				"ru":"Farm and Mine обновилась. Если вы начинали игру до версии 0.6.0, мы рекомендуем вам перезапустить стройку и получить очки престижа, чтобы полностью открыть новые здания: гончарный круг, кузницу, плавильню и лесопилку",
+				"uk":"Farm and Mine оновлено! Якщо ви починали грати у версії раніше 0.6.0, ми рекомендуємо перезапустити будівництво та отримати бали престижу, щоб повністю відкрити нові будівлі: гончарний круг, кузню, плавильню та лісопилку"
+			},
+			"answers":[
+				{
+					"text":{"en":"Discuss in Discord","ru":"Обсудить в Дискорде","uk":"Обсудити у Дискорді"},
+					"link": "https://discord.gg/XfnJnQF"
+				}		
+			],
 			"isObsolete":"false"
 		}		
 	]
