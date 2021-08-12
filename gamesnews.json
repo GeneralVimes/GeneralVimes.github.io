@@ -391,6 +391,32 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.farm.mine.idle.ludumdare48"
 			},
 			
+			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"farmstream",
+			"caption":{
+				"en":"We are releasing our newest game, Farm and Mine, worldwide!",
+				"ru":"Мы выпускаем нашу новую игру, Farm and Mine, на весь мир!",
+				"uk":"Ми выпускаємо нашу нову гру, Farm and Mine, на весь світ!"
+			},
+			"message":{
+				"en":"It will be featured at PocketGamer Launchpad stream. You are welcome!",
+				"ru":"Игра будет показана на стриме PocketGamer Launchpad. Добро пожаловать!",
+				"uk":"Гра будет показана на стримі PocketGamer Launchpad. Ласкаво просимо!"
+			},
+			"answer":{
+				"en":"Play!",
+				"ru":"Играть!",
+				"uk":"Грати!"
+			},
+			"link":"https://www.airapport.com/2021/08/farm-and-mine-will-be-launched-globally.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/farm-and-mine-deep-idle-ld48/id1564694016",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.farm.mine.idle.ludumdare48"
+			},
+			
 			"mustSkip":"false"
 		}		
 	]
