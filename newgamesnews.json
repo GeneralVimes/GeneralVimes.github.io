@@ -398,7 +398,7 @@
 					"platforms":["all"]								
 				}		
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["12"],
@@ -440,6 +440,46 @@
 				{
 					"text":{"en":"Discuss in Discord","ru":"Обсудить в Дискорде","uk":"Обсудити у Дискорді"},
 					"link": "https://discord.gg/XfnJnQF"
+				}		
+			],
+			"isObsolete":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"farmstream",
+			"intuid":23,
+			"caption":{
+				"en":"We are releasing our newest game, Farm and Mine, worldwide!",
+				"ru":"Мы выпускаем нашу новую игру, Farm and Mine, на весь мир!",
+				"uk":"Ми выпускаємо нашу нову гру, Farm and Mine, на весь світ!"
+			},
+			"message":{
+				"en":"It will be featured at PocketGamer Launchpad stream. You are welcome!",
+				"ru":"Игра будет показана на стриме PocketGamer Launchpad. Добро пожаловать!",
+				"uk":"Гра будет показана на стримі PocketGamer Launchpad. Ласкаво просимо!"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/farm-and-mine-deep-idle-ld48/id1564694016",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=com.airapport.farm.mine.idle.ludumdare48",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
+				},
+				{
+					"text":{"en":"Itch"},
+					"link":	"https://airapport.itch.io/farm-and-mine",
+					"platforms":["all"]								
+				},
+				{
+					"text":{"en":"Twitch"},
+					"link":	"https://www.twitch.tv/pocketgamerlive",
+					"platforms":["all"]								
 				}		
 			],
 			"isObsolete":"false"
