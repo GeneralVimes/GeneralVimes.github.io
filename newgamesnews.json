@@ -483,6 +483,27 @@
 				}		
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["12"],
+			"excludedgames":[""],
+			"uid":"antilegal",
+			"intuid":24,
+			"caption":{
+				"en":"Video review by Antilegal!",
+				"ru":"Обзор игры от Antilegal!"
+			},
+			"message":{
+				"en":"Many thanks to Antilegal for reviewing Farm and Mine! Watch the video to find the gameplay tips or useful bonus codes",
+				"ru":"Огромное спасибо Antilegalу за обзор игры Farm and Mine! Посмотрев видео, вы найдёте советы по игре, а также полезные бонусные коды"
+			},
+			"answers":[
+				{
+					"text":{"en":"Find code","ru":"Найти коды"},
+					"link": "https://www.youtube.com/watch?v=43sl1g3E7vk"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
