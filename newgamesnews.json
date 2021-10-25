@@ -16,7 +16,7 @@
 			"answers":[
 				{
 					"text":{"en":"Watch","ru":"Смотреть"},
-					"link": "https://www.youtube.com/watch?v=hXoxH6766lY"
+					"link": "https://www.youtube.com/watch?v=hXoxH6766lY&lc=UgxvVYHj30srtw28YT14AaABAg"
 				}
 			],
 			"isObsolete":"false",
@@ -89,7 +89,7 @@
 			"answers":[
 				{
 					"text":{"en":"Watch","ru":"Смотреть"},
-					"link": "https://www.youtube.com/watch?v=cIPjLqgFwiw"
+					"link": "https://www.youtube.com/watch?v=cIPjLqgFwiw&lc=Ugy7K4-gSu2R60NpeXF4AaABAg"
 				}
 			],
 			"isObsolete":"false",
@@ -162,7 +162,7 @@
 			"answers":[
 				{
 					"text":{"en":"Find code","ru":"Найти код"},
-					"link": "https://www.youtube.com/watch?v=tbAYzJoMtK0"
+					"link": "https://www.youtube.com/watch?v=ChiMH3QFgr0&lc=Ugy0WvowC_kI_l2pRYB4AaABAg"
 				}
 			],
 			"isObsolete":"false"
@@ -183,7 +183,7 @@
 			"answers":[
 				{
 					"text":{"en":"Watch review","ru":"Смотреть обзор"},
-					"link": "https://www.youtube.com/watch?v=zkYWQ0D-ZFk"
+					"link": "https://www.youtube.com/watch?v=zkYWQ0D-ZFk&lc=UgzZysM7CofFvG4C5f54AaABAg"
 				}
 			],
 			"isObsolete":"false"
@@ -204,7 +204,7 @@
 			"answers":[
 				{
 					"text":{"en":"Watch","ru":"Смотреть"},
-					"link": "https://www.youtube.com/watch?v=onjS5yjQssI"
+					"link": "https://www.youtube.com/watch?v=onjS5yjQssI&lc=UgzFdSlzcNpDxWUvQrd4AaABAg"
 				}
 			],
 			"isObsolete":"false"
