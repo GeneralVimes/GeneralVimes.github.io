@@ -418,6 +418,22 @@
 			},
 			
 			"mustSkip":"false"
+		}	,
+		{
+			"games":["all"],
+			"uid":"2022",
+			"caption":{
+				"en":"Happy New Year 2022!"
+			},
+			"message":{
+				"en":"We thank you for staying with us, playing our games, reviewing them in the stores and suggesting new great ideas. We wish you Happy New Year! All the best wishes to you: health, luck, peace, inspiration and love to you and your friends and families"
+			},
+			"answer":{
+				"en":"View blog post"
+			},
+			"link":"https://www.airapport.com/2021/12/happy-new-year-2022.html",
+			
+			"mustSkip":"false"
 		}		
 	]
 }
