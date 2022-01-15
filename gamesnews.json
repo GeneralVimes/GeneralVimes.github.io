@@ -433,7 +433,7 @@
 			},
 			"link":"https://www.airapport.com/2021/12/happy-new-year-2022.html",
 			
-			"mustSkip":"true"
+			"mustSkip":"false"
 		},
 		{
 			"games":["all"],
@@ -457,7 +457,7 @@
 				"iOS":"https://apps.apple.com/us/app/conquicktory/id1588421923",
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.quickcivstrategy.conquicktory"
 			},
-			"isObsolete":"false"
+			"mustSkip":"false"
 		}		
 	]
 }

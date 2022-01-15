@@ -522,12 +522,13 @@
 					"link": "https://www.airapport.com/2021/12/happy-new-year-2022.html"
 				}
 			],
-			"isObsolete":"true"
+			"isObsolete":"false"
 		},
 		{
 			"games":["all"],
 			"excludedgames":["5"],
 			"uid":"conquicktory",
+			"intuid":26,
 			"caption":{
 				"en":"Strategy game!","ru":"Игра-стратегия!","uk":"Гра-стратегія!"
 			},
