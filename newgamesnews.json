@@ -522,6 +522,44 @@
 					"link": "https://www.airapport.com/2021/12/happy-new-year-2022.html"
 				}
 			],
+			"isObsolete":"true"
+		},
+		{
+			"games":["all"],
+			"excludedgames":["5"],
+			"uid":"conquicktory",
+			"caption":{
+				"en":"Strategy game!","ru":"Игра-стратегия!","uk":"Гра-стратегія!"
+			},
+			"message":{
+				"en":"We've dreamt to make own strategy game for long ago. And we are ready to show you it now!",
+				"ru":"Мы давно мечтали сделать свою игру-стратегию. И теперь готовы показать её вам!",
+				"uk":"Мы давно мріяли зробити свою гру-стратегію. И тепер готові показати її вам!"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/conquicktory/id1588421923",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=com.airapport.quickcivstrategy.conquicktory",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
+				},
+				{
+					"text":{"en":"Itch"},
+					"link":	"https://airapport.itch.io/conquicktory",
+					"platforms":["all"]								
+				},
+				{
+					"text":{"en":"Steam"},
+					"link":	"https://store.steampowered.com/app/1779510/Conquicktory/",
+					"platforms":["all"]								
+				}		
+			],
 			"isObsolete":"false"
 		}		
 	]
