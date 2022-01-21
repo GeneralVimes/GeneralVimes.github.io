@@ -562,6 +562,52 @@
 				}		
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["5"],
+			"excludedgames":[""],
+			"uid":"video1",
+			"intuid":27,
+			"caption":{
+				"en":"First video review!",
+				"ru":"Первый видеообзор!",
+				"uk":"Перший відеоогляд!"
+			},
+			"message":{
+				"en":"We are happy that youtubers start reviewing our turn-based strategy",
+				"ru":"Мы рады, что ютуберы начинают обозревать нашу пошаговую стратегию",
+				"uk":"Ми раді, що ютубери починают оглядати нашу пошагову стратегію"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch","ru":"Смотреть","uk":"Дивитися"},
+					"link": "https://www.youtube.com/watch?v=I_n0O7ZVoV0"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["5"],
+			"excludedgames":[""],
+			"uid":"video2",
+			"intuid":28,
+			"caption":{
+				"en":"Video of a game lost",
+				"ru":"Видео проигрыша",
+				"uk":"Відео програшу"
+			},
+			"message":{
+				"en":"This video shows how a player looses a game and the developer shared useful gameplay tips in the comments",
+				"ru":"Это видео показывает проигрыш игрока, и разработчик поделился полезными подсказками в комментариях",
+				"uk":"Це відео показує програш гравця, і розробник поділився корисними підказками у коментарях"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch","ru":"Смотреть","uk":"Дивитися"},
+					"link": "https://www.youtube.com/watch?v=X7eUNycQIPg"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
