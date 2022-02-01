@@ -103,7 +103,7 @@
 					"link": "https://www.airapport.com/2021/12/happy-new-year-2022.html"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -139,6 +139,25 @@
 					"link":	"https://store.steampowered.com/app/1779510/Conquicktory/",
 					"platforms":["all"]								
 				}		
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"farmnominate",
+			"caption":{
+				"en":"Nominate our game in the contest","ru":"Номинируйте нашу игру в конкурсе","uk":"Номінуйте нашу гру у конкурсі"
+			},
+			"message":{
+				"en":"Hello, friends! All year round we’ve been working hard to give you the best games, and we have many tasks for the future (including fulfilling our promises :) ). If you like what we do, please, nominate our game Farm and Mine in the Awards contest",
+				"ru":"Друзья, мы работали весь год, чтобы сделать для вас хорошие игры, и у нас много задач и на будущее (включая выполнение прежних обещаний :) ) Если вам нравятся наши игры, пожалуйста, номинируйте игру Farm and Mine в конкурсе Pocket Gamer",
+				"uk":"Друзі, ми пряцювали весь рік, щоб створювати для вас гарні ігри, і в нас багато задач на майбутнє (включаючи виконання попередніх обіцянок :) ) Якщо вам подобаються наші ігри, будь ласка, номінуйте гру Farm and Mine у конкурсі Pocket Gamer"
+			},
+			"answers":[
+				{
+					"text":{"en":"Nominate","ru":"Номинировать","uk":"Номінувати"},
+					"link": "https://www.pocketgamer.com/peoples-choice-2022/nominate/"
+				}	
 			],
 			"isObsolete":"false"
 		}		
