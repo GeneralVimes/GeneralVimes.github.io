@@ -523,7 +523,7 @@
 					"link": "https://www.airapport.com/2021/12/happy-new-year-2022.html"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -562,7 +562,7 @@
 					"platforms":["all"]								
 				}		
 			],
-			"isObsolete":"true"
+			"isObsolete":"false"
 		},
 		{
 			"games":["5"],
