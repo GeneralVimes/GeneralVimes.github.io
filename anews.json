@@ -140,7 +140,7 @@
 					"platforms":["all"]								
 				}		
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -159,7 +159,7 @@
 					"link": "https://www.pocketgamer.com/peoples-choice-2022/nominate/"
 				}	
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		}		
 	]
 }

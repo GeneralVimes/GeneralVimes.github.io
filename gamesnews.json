@@ -457,7 +457,7 @@
 				"iOS":"https://apps.apple.com/us/app/conquicktory/id1588421923",
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.quickcivstrategy.conquicktory"
 			},
-			"mustSkip":"false"
+			"mustSkip":"true"
 		},
 		{
 			"games":["all"],
@@ -474,7 +474,7 @@
 				"en":"Nominate","ru":"Номинировать","uk":"Номінувати"
 			},
 			"link":"https://www.pocketgamer.com/peoples-choice-2022/nominate/",
-			"mustSkip":"false"
+			"mustSkip":"true"
 		}		
 	]
 }
