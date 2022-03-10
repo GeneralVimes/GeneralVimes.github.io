@@ -19,7 +19,7 @@
 					"link": "https://www.youtube.com/watch?v=hXoxH6766lY&lc=UgxvVYHj30srtw28YT14AaABAg"
 				}
 			],
-			"isObsolete":"false",
+			"isObsolete":"true",
 			"startDate":"20-Aug-2020"
 		},
 		{
@@ -92,7 +92,7 @@
 					"link": "https://www.youtube.com/watch?v=cIPjLqgFwiw&lc=Ugy7K4-gSu2R60NpeXF4AaABAg"
 				}
 			],
-			"isObsolete":"false",
+			"isObsolete":"true",
 			"startDate":"20-Aug-2020"
 		},
 		{
@@ -144,7 +144,7 @@
 					"excludedplatforms":["Apple"]									
 				}
 			],
-			"isObsolete":"true"
+			"isObsolete":"false"
 		},
 		{
 			"games":["11"],
@@ -165,7 +165,7 @@
 					"link": "https://www.youtube.com/watch?v=ChiMH3QFgr0&lc=Ugy0WvowC_kI_l2pRYB4AaABAg"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["11"],
@@ -186,7 +186,7 @@
 					"link": "https://www.youtube.com/watch?v=zkYWQ0D-ZFk&lc=UgzZysM7CofFvG4C5f54AaABAg"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["11"],
@@ -504,7 +504,7 @@
 					"link": "https://www.youtube.com/watch?v=43sl1g3E7vk"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -585,7 +585,7 @@
 					"link": "https://www.youtube.com/watch?v=I_n0O7ZVoV0"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["5"],
@@ -608,7 +608,7 @@
 					"link": "https://www.youtube.com/watch?v=X7eUNycQIPg"
 				}
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],

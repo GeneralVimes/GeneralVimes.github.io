@@ -15,7 +15,9 @@
 				"en":"Open Youtube",
 				"ru":"Открыть Youtube"
 			},
-			"link":"https://www.youtube.com/watch?v=ATJsk_gr88g"
+			"link":"https://www.youtube.com/watch?v=ATJsk_gr88g",
+			
+			"mustSkip":"true"
 			
 		},
 		{
@@ -56,7 +58,9 @@
 				"en":"Open Youtube",
 				"ru":"Открыть Youtube"
 			},
-			"link":"https://www.youtube.com/watch?v=-PwfjEDqXvw"
+			"link":"https://www.youtube.com/watch?v=-PwfjEDqXvw",
+			
+			"mustSkip":"true"
 		},
 		{
 			"games":["all"],
@@ -314,7 +318,7 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.steampunkidlespinner"
 			},
 			
-			"mustSkip":"true"
+			"mustSkip":"false"
 		},
 		{
 			"games":["all"],
