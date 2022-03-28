@@ -442,6 +442,23 @@
 				}	
 			],
 			"isObsolete":"true"
-		}		
+		},
+		{
+			"games":["all"],
+			"uid":"helpukraine",
+			"caption":{
+				"en":"Do you like our games? Please, support our country"
+			},
+			"message":{
+				"en":"Airapport team is based in Ukraine. As our country is defending against violent aggression from Russia, we are asking all our friends to help our country. The sooner peace is restored the sooner you'll be able to see new games and updates"
+			},
+			"answers":[
+				{
+					"text":{"en":"How to help"},
+					"link": "https://www.airapport.com/2022/03/do-you-like-our-games-please-support.html"
+				}	
+			],
+			"isObsolete":"false"
+		}
 	]
 }
