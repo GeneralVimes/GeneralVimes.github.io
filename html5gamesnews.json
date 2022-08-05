@@ -459,6 +459,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"u24",
+			"caption":{
+				"en":"United24"
+			},
+			"message":{
+				"en":"Dear friends! Thank you for your support of our country, Ukraine, as it's defending against the Russian attacks for over 163 days already. Please, keep supporting and check the President's initiative United24 for this. Your help can save lives!"
+			},
+			"answers":[
+				{
+					"text":{"en":"UNITED24"},
+					"link": "https://www.airapport.com/2022/08/united-24-platform-where-you-can-select.html"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
