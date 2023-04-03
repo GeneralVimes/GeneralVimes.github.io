@@ -476,6 +476,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"d404",
+			"caption":{
+				"en":"Ukraine still needs your help"
+			},
+			"message":{
+				"en":"Dear friends! As you know, we live in Ukraine. Today is the 404th day of full-scale terrorussian's invasion. Please, find out how you can support our country"
+			},
+			"answers":[
+				{
+					"text":{"en":"Support Ukraine"},
+					"link": "https://www.airapport.com/2023/04/today-is-404-days-of-full-scale.html"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
