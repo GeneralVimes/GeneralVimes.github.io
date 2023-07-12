@@ -133,7 +133,7 @@
 			"games":["3"],
 			"uid":"mobileVersion",
 			"caption":{
-				"en":"Mobilve version raedy!",
+				"en":"Mobilve version ready!",
 				"ru":"Готова мобильная версия!"
 			},
 			"message":{
@@ -490,6 +490,23 @@
 				{
 					"text":{"en":"Support Ukraine"},
 					"link": "https://www.airapport.com/2023/04/today-is-404-days-of-full-scale.html"
+				}	
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream",
+			"caption":{
+				"en":"Developer stream"
+			},
+			"message":{
+				"en":"Hi! Starting from June 14th I'm going to play my idle games on the streams for 1 hour every day. I invite you to join the stream, ask questions and share your ideas and suggestions. Looking forward to meeting you, friends!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Youtube stream"},
+					"link": "https://www.youtube.com/watch?v=dqKL2gj38eE&list=PLU_iW_uK7HGQYyZ-Xfphdq-2xYgs_muvJ"
 				}	
 			],
 			"isObsolete":"false"

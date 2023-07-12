@@ -258,7 +258,7 @@
 			},
 			"message":{
 				"en":"Our newest mobile game: Idle Tower Builder, is released! Would you like to install it on your device?",
-				"ru":"Вышла наша новая собильная игра, Idle Tower Builder! Хотите установить её себе?"
+				"ru":"Вышла наша новая мобильная игра, Idle Tower Builder! Хотите установить её себе?"
 			},
 			"answer":{
 				"en":"Open new game",
@@ -368,7 +368,7 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.evolution.arena.sandbox.rps"
 			},
 			
-			"mustSkip":"false"
+			"mustSkip":"true"
 		},
 		{
 			"games":["all"],
@@ -523,6 +523,21 @@
 				"en":"Support Ukraine"
 			},
 			"link":"https://www.airapport.com/2023/04/today-is-404-days-of-full-scale.html",
+			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream",
+			"caption":{
+				"en":"Developer stream"
+			},
+			"message":{
+				"en":"Hi! Starting from June 14th I'm going to play my idle games on the streams for 1 hour every day. I invite you to join the stream, ask questions and share your ideas and suggestions. Looking forward to meeting you, friends!"
+			},
+			"answer":{
+				"en":"Youtube stream"
+			},
+			"link":"https://www.youtube.com/watch?v=dqKL2gj38eE&list=PLU_iW_uK7HGQYyZ-Xfphdq-2xYgs_muvJ",
 			"mustSkip":"false"
 		}
 		
