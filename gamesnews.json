@@ -368,7 +368,7 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=com.airapport.evolution.arena.sandbox.rps"
 			},
 			
-			"mustSkip":"true"
+			"mustSkip":"false"
 		},
 		{
 			"games":["all"],
