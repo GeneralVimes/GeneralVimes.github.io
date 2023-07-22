@@ -228,6 +228,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["3"],
+			"uid":"intern",
+			"caption":{
+				"en":"Great playthrough by InterndotGif"
+			},
+			"message":{
+				"en":"InterndotGif played Babel Tower, the HTML5 version of Idle Tower Builder. It was really great and informative!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch"},
+					"link": "https://www.youtube.com/watch?v=b1T67U1-EVw"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
