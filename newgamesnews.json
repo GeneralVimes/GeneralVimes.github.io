@@ -706,7 +706,7 @@
 			"games":["11"],
 			"excludedgames":[""],
 			"uid":"intern",
-			"intuid":14,
+			"intuid":34,
 			"caption":{
 				"en":"Great playthrough by InterndotGif"
 			},
@@ -717,6 +717,25 @@
 				{
 					"text":{"en":"Watch"},
 					"link": "https://www.youtube.com/watch?v=b1T67U1-EVw"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"bax",
+			"intuid":35,
+			"caption":{
+				"en":"Bax plays Babel Tower!"
+			},
+			"message":{
+				"en":"Please check this cool video of Bax building Babel Tower! We are so happy that the game was noticed!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch"},
+					"link": "https://www.youtube.com/watch?v=e5IOMXT8t5c"
 				}
 			],
 			"isObsolete":"false"

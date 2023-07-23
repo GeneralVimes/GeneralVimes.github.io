@@ -245,6 +245,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["3"],
+			"uid":"bax",
+			"caption":{
+				"en":"Bax plays Babel Tower!"
+			},
+			"message":{
+				"en":"Please check this cool video of Bax building Babel Tower! We are so happy that the game was noticed!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch"},
+					"link": "https://www.youtube.com/watch?v=e5IOMXT8t5c"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
