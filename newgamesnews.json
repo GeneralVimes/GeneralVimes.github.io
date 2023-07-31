@@ -739,6 +739,44 @@
 				}
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"cade",
+			"intuid":36,
+			"caption":{
+				"en":"Game reviewed by ImCade!"
+			},
+			"message":{
+				"en":"Please check the new video by ImCade where he explains the essentials of Babel Tower building in a great and fun way!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch"},
+					"link": "https://www.youtube.com/watch?v=yPT_I8C3GZ4"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"df",
+			"intuid":37,
+			"caption":{
+				"en":"DangerouslyFunny builds Babel Tower!"
+			},
+			"message":{
+				"en":"We are happy to see that our game was played by DangerouslyFunny! You will surely enjoy this video, too!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch"},
+					"link": "https://www.youtube.com/watch?v=wbZgVsSdi3M"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
