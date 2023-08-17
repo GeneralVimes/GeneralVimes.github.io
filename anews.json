@@ -296,6 +296,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["3"],
+			"uid":"rce",
+			"caption":{
+				"en":"Find new bonus codes in Real Civil Engineer's videos!"
+			},
+			"message":{
+				"en":"Real Civil Engineer found Idle Tower Builder and played it on his channel! Moreover, he shared 3 ever-valid bonus codes to boost the viewers' progress!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch & Find Codes!"},
+					"link": "https://www.youtube.com/watch?v=ogyA35dfCz8"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
