@@ -828,7 +828,29 @@
 				{
 					"text":{"en":"Part 5"},
 					"link": "https://www.youtube.com/watch?v=xaMKeMvwDfk"
+				},
+				{
+					"text":{"en":"Part 6"},
+					"link": "https://www.youtube.com/watch?v=Nfi2etXNgwI"
 				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream2",
+			"intuid":40,
+			"caption":{
+				"en":"New Developer streaming marathon"
+			},
+			"message":{
+				"en":"By community request, since Sep 1st we are starting a new streaming marathon. We are going to start playing Farm and Mine from the very beginning and eventually unlock all the content. Feel free to join and share your ideas or ask questions about the Airapport games"
+			},
+			"answers":[
+				{
+					"text":{"en":"Join stream"},
+					"link": "https://www.youtube.com/watch?v=v1fjQf4UWks&list=PLU_iW_uK7HGQYyZ-Xfphdq-2xYgs_muvJ&index=50"
+				}	
 			],
 			"isObsolete":"false"
 		}		
