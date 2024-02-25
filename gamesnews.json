@@ -620,6 +620,21 @@
 					},
 			"link":"https://vm.tiktok.com/ZM6dVfmmo/",
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"u2y",
+			"caption":{
+				"en":"We ask you to stand with Ukraine"
+			},
+			"message":{
+				"en":"Friends, 2 years ago Russia launched a full-scale invasion against our country, Ukraine. Now, after 730 days, Ukraine stands, and people like us can live, only thanks to the defense of the Ukrainian defense forces. Thank you for your support! As the war goes on, please, continue doing this"
+			},
+			"answer":{
+				"en":"Do it!"
+			},
+			"link":"https://www.airapport.com/2024/02/we-stand-with-ukraine-and-we-ask-you.html",
+			"mustSkip":"false"
 		}
 		
 	]
