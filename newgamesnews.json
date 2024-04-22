@@ -943,6 +943,36 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["12"],
+			"uid":"farmfelps",
+			"intuid":43,
+			"caption":{
+				"en":"Farm and Mine on Youtube by Felps '-'"
+			},
+			"message":{
+				"en":"Many thanks to Felps for playing a whole series of Farm and Mine building streams! Obrigado! '-' We are so happy that the game was noticed! Watch the videos and check the comments to find non-expirable bonus codes! Like them, comment and subscribe to see more content in the future :)"
+			},
+			"answers":[
+				{
+					"text":{"en":"Part 1"},
+					"link": "https://www.youtube.com/watch?v=LNN5WvgsNB4"
+				},
+				{
+					"text":{"en":"Part 2"},
+					"link": "https://www.youtube.com/watch?v=KV8yT919ej0"
+				},
+				{
+					"text":{"en":"Part 3"},
+					"link": "https://www.youtube.com/watch?v=f4mxbL8--TY"
+				},
+				{
+					"text":{"en":"Part 4"},
+					"link": "https://www.youtube.com/watch?v=sn2_sLnMLNA"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
