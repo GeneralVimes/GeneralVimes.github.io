@@ -668,6 +668,23 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"farmpeople24",
+			"caption":{
+				"en":"Nominate our game as People Choice!"
+			},
+			"message":{
+				"en":"If you enjoy the game you are playing, please, nominate it to the People Choice Awards of Pocket Gamer contest. This is very important for us while we are working to create new content updates"
+			},
+			"answers":[
+				{
+					"text":{"en":"Nominate!"},
+					"link": "https://www.pocketgamer.com/peoples-choice-2024/nominate/"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
