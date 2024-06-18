@@ -700,7 +700,7 @@
 						"vi": "Cách đề cử"
 					},
 			"link":"https://www.airapport.com/2024/05/will-you-nominate-airapport-as-best.html",
-			"mustSkip":"false"
+			"mustSkip":"true"
 		},
 		{
 			"games":["all"],
@@ -715,7 +715,7 @@
 				"en":"Nominate!"
 			},
 			"link":"https://www.pocketgamer.com/peoples-choice-2024/nominate/",
-			"mustSkip":"false"
+			"mustSkip":"true"
 		}
 		
 	]

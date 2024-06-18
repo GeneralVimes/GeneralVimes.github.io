@@ -486,7 +486,7 @@
 					"link": "https://www.airapport.com/2024/05/will-you-nominate-airapport-as-best.html"
 				}	
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -503,7 +503,7 @@
 					"link": "https://www.pocketgamer.com/peoples-choice-2024/nominate/"
 				}	
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		}
 	]
 }
