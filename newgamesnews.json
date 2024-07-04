@@ -811,7 +811,7 @@
 			"answers":[
 				{
 					"text":{"en":"Part 1"},
-					"link": "https://www.youtube.com/watch?v=HaugfWaNnmg"
+					"link": "https://www.youtube.com/watch?v=HaugfWaNnmg&list=PL9hKdpBVqWZ6Gw38MFa_NnCM8r8wNyHcr"
 				},
 				{
 					"text":{"en":"Part 2"},
@@ -859,72 +859,21 @@
 			"uid":"tt",
 			"intuid":41,
 			"caption":{
-				"cs": "Efekt Tiktok!",
-				"de": "TIKTOK -Effekt!",
-				"en": "TikTok Effect!",
-				"es": "¡Efecto tiktok!",
-				"fr": "Effet tiktok!",
-				"hu": "Tiktok effektus!",
-				"id": "Efek Tiktok!",
-				"it": "Effetto tiktok!",
-				"ms": "Kesan Tiktok!",
-				"nl": "Tiktok -effect!",
-				"pl": "Efekt tiktok!",
-				"pt": "Efeito Tiktok!",
-				"ro": "Efectul Tiktok!",
-				"ru": "Эффект тикток!",
-				"sk": "Tiktok efekt!",
-				"tr": "Tiktok efekti!",
-				"uk": "Ефект Тіктока!",
-				"vi": "Hiệu ứng Tiktok!"
+				"cs": "Efekt Tiktok!"
 			},
 			"message":{
-				"cs": "Vytvořili jsme efekt Tiktok, který vám umožní získat ve vašich rukou postavy z her AIRAPORT! Stačí otevřít dlaň a ukázat, co máte!",
-				"de": "Wir haben einen Tiktok -Effekt erstellt, mit dem Sie Charaktere von Airapport -Spielen in Ihre Hände bringen können! Öffne einfach eine Handfläche und zeig, was du hast!",
-				"en": "We created a TikTok effect enabling you to get characters from Airapport games in your hands! Just open a palm and show what you've got!",
-				"es": "¡Creamos un efecto Tiktok que le permitiera obtener personajes de los juegos de poca aérea en sus manos! ¡Solo abre una palma y muestra lo que tienes!",
-				"fr": "Nous avons créé un effet tiktok vous permettant d'obtenir des personnages de jeux AirApport entre vos mains! Ouvrez simplement une paume et montrez ce que vous avez!",
-				"hu": "Készítettünk egy Tiktok -effektusot, amely lehetővé teszi Önt, hogy karaktereket szerezzen az AirApport Games -ból a kezedben! Csak nyisson ki egy tenyerét, és mutasd meg, mi van!",
-				"id": "Kami membuat efek tiktok yang memungkinkan Anda mendapatkan karakter dari permainan Airapport di tangan Anda! Buka saja telapak tangan dan tunjukkan apa yang Anda miliki!",
-				"it": "Abbiamo creato un effetto tiktok che ti consente di ottenere personaggi dai giochi AirApport nelle tue mani! Apri un palmo e mostra cosa hai!",
-				"ms": "Kami mencipta kesan tiktok yang membolehkan anda mendapatkan watak dari permainan AirApport di tangan anda! Hanya buka telapak tangan dan tunjukkan apa yang anda ada!",
-				"nl": "We hebben een Tiktok -effect gemaakt waarmee je personages uit Airapport -games in handen kunt krijgen! Open gewoon een palm en laat zien wat je hebt!",
-				"pl": "Stworzyliśmy efekt tiktok umożliwiający pobieranie postaci z gier AirApport w twoich rękach! Po prostu otwórz dłoń i pokaż, co masz!",
-				"pt": "Criamos um efeito Tiktok, permitindo que você obtenha personagens de jogos AirApport em suas mãos! Basta abrir uma palma e mostrar o que você tem!",
-				"ro": "Am creat un efect Tiktok care vă permite să obțineți personaje din jocurile de aeraportare în mâinile voastre! Deschideți doar o palmă și arătați ce aveți!",
-				"ru": "Мы создали эффект Tiktok, который позволит вам получить персонажей из Airapport Games в руках! Просто откройте ладонь и покажите, что у вас есть!",
-				"sk": "Vytvorili sme efekt Tiktok, ktorý vám umožní získať postavy z hier Airapport vo vašich rukách! Stačí otvoriť dlaň a ukážte, čo máte!",
-				"tr": "Airapport oyunlarından karakterleri elinizde almanızı sağlayan bir Tiktok efekti oluşturduk! Sadece bir avuç iç ve sahip olduğunuzu göster!",
-				"uk": "Ми створили ефект Tiktok, що дозволяє вам отримати персонажів з ігор Airapport у руках! Просто відкрийте долоню і покажіть, що у вас є!",
-				"vi": "Chúng tôi đã tạo ra một hiệu ứng Tiktok cho phép bạn có được các nhân vật từ các trò chơi AirApport trong tay bạn! Chỉ cần mở một cây cọ và hiển thị những gì bạn đã có!"
+				"cs": "Vytvořili jsme efekt Tiktok, který vám umožní získat ve vašich rukou postavy z her AIRAPORT! Stačí otevřít dlaň a ukázat, co máte!"
 			},
 			"answers":[
 				{
 					"text":{						
-						"cs": "Zkus to",
-						"de": "Versuch es",
-						"en": "Try it",
-						"es": "Intentalo",
-						"fr": "Essayez-le",
-						"hu": "Próbáld ki",
-						"id": "Cobalah",
-						"it": "Provalo",
-						"ms": "Cuba ia",
-						"nl": "Probeer het",
-						"pl": "Spróbuj",
-						"pt": "Tente",
-						"ro": "Incearca-l",
-						"ru": "Попробуй",
-						"sk": "Skús to",
-						"tr": "Dene",
-						"uk": "Спробуй",
-						"vi": "Thử nó"
+						"cs": "Zkus to"
 					},
 
 					"link": "https://vm.tiktok.com/ZM6dVfmmo/"
 				}	
 			],
-			"isObsolete":"false"
+			"isObsolete":"true"
 		},
 		{
 			"games":["all"],
@@ -957,7 +906,7 @@
 			"answers":[
 				{
 					"text":{"en":"Part 1"},
-					"link": "https://www.youtube.com/watch?v=LNN5WvgsNB4"
+					"link": "https://www.youtube.com/watch?v=mUUn5gks-Ug&list=PL9hKdpBVqWZ5cJGaJOv25ASGdbsbsA7rN&index=1"
 				},
 				{
 					"text":{"en":"Part 2"},
@@ -979,66 +928,15 @@
 			"uid":"nompgc24",
 			"intuid":44,
 			"caption":{
-				"cs": "Nominujete Airapport na ceny?",
-				"de": "Werden Sie Airapport für Auszeichnungen nominieren?",
-				"en": "Will you nominate Airapport for awards?",
-				"es": "¿Nominarás a Airapport para los premios?",
-				"fr": "Allez-vous proposer Airapport pour des prix ?",
-				"hu": "Jelölni fogja az Airapportot díjra?",
-				"id": "Apakah Anda akan menominasikan Airapport untuk mendapatkan penghargaan?",
-				"it": "Nominerai Airapport per i premi?",
-				"ms": "Adakah anda akan mencalonkan Airapport untuk anugerah?",
-				"nl": "Nomineert u Airapport voor prijzen?",
-				"pl": "Nominujesz Airapport do nagród?",
-				"pt": "Você indicará o Airapport para prêmios?",
-				"ro": "Veți nominaliza Airapport pentru premii?",
-				"ru": "Будете ли вы номинировать Airapport на награды?",
-				"sk": "Nominujete Airapport na ocenenia?",
-				"tr": "Airapport'u ödüllere aday gösterecek misiniz?",
-				"uk": "Чи номінуєте ви Airapport на нагороди?",
-				"vi": "Bạn sẽ đề cử Airapport cho giải thưởng chứ?"
+				"cs": "Nominujete Airapport na ceny?"
 			},
 			"message":{
-				"cs": "Prestižní ocenění Pocket Gamer Mobile Games Awards otevírá svou nominační fázi! Pokud se vám naše hry líbí, nominujte nás prosím jako nejlepšího nezávislého vývojáře – bude to pro nás skutečně hodně znamenat",
-				"de": "Die prestigeträchtigen Pocket Gamer Mobile Games Awards eröffnen ihre Nominierungsphase! Wenn Ihnen unsere Spiele gefallen, nominieren Sie uns bitte zum besten Indie-Entwickler – das wird uns in der Tat viel bedeuten",
-				"en": "The prestigious Pocket Gamer Mobile Games Awards opens its nomination phase! If you enjoy our games, please, nominate us as Best Indie Developer - this will mean much for us indeed",
-				"es": "¡Los prestigiosos premios Pocket Gamer Mobile Games Awards abren su fase de nominaciones! Si te gustan nuestros juegos, nomíranos como Mejor Desarrollador Indie; esto significará mucho para nosotros.",
-				"fr": "Le prestigieux Pocket Gamer Mobile Games Awards ouvre sa phase de nomination ! Si vous appréciez nos jeux, n'hésitez pas à nous nommer comme meilleur développeur indépendant - cela signifiera vraiment beaucoup pour nous.",
-				"hu": "A rangos Pocket Gamer Mobile Games Awards jelölési szakaszát nyitja meg! Ha szereti a játékainkat, kérjük, jelöljön minket a legjobb indie fejlesztőnek – ez valóban sokat fog jelenteni számunkra",
-				"id": "Pocket Gamer Mobile Games Awards yang bergengsi membuka tahap nominasinya! Jika Anda menikmati permainan kami, harap nominasikan kami sebagai Pengembang Indie Terbaik - ini akan sangat berarti bagi kami",
-				"it": "Il prestigioso Pocket Gamer Mobile Games Awards apre la fase delle nomination! Se ti piacciono i nostri giochi, nominaci come miglior sviluppatore indipendente: questo significherà davvero molto per noi",
-				"ms": "Anugerah Permainan Mudah Alih Pocket Gamer yang berprestij membuka fasa pencalonannya! Jika anda menikmati permainan kami, sila calonkan kami sebagai Pembangun Indie Terbaik - ini amat bermakna bagi kami",
-				"nl": "De prestigieuze Pocket Gamer Mobile Games Awards openen de nominatiefase! Als je onze games leuk vindt, nomineer ons dan alsjeblieft als Beste Indie-ontwikkelaar. Dit zal inderdaad veel voor ons betekenen",
-				"pl": "Prestiżowa nagroda Pocket Gamer Mobile Games Awards rozpoczyna fazę nominacji! Jeśli podobają Ci się nasze gry, prosimy o nominację w kategorii Najlepszego Twórcy Niezależnego – będzie to dla nas naprawdę wiele znaczyło",
-				"pt": "O prestigiado Pocket Gamer Mobile Games Awards abre sua fase de indicações! Se você gosta de nossos jogos, por favor, indique-nos como Melhor Desenvolvedor Indie - isso realmente significará muito para nós",
-				"ro": "Prestigioasa Pocket Gamer Mobile Games Awards își deschide faza de nominalizare! Dacă vă plac jocurile noastre, vă rugăm să ne nominalizați drept Cel mai bun dezvoltator independent - asta va însemna mult pentru noi într-adevăr",
-				"ru": "Престижная премия Pocket Gamer Mobile Games Awards открывает этап номинаций! Если вам нравятся наши игры, пожалуйста, номинируйте нас как лучшего инди-разработчика — это действительно будет много значить для нас.",
-				"sk": "Prestížne ocenenie Pocket Gamer Mobile Games Awards otvára svoju nominačnú fázu! Ak sa vám naše hry páčia, nominujte nás ako najlepšieho nezávislého vývojára – bude to pre nás skutočne veľa znamenať",
-				"tr": "Prestijli Pocket Gamer Mobil Oyunlar Ödülleri adaylık aşamasını açıyor! Oyunlarımızı beğeniyorsanız lütfen bizi En İyi Bağımsız Geliştirici olarak aday gösterin - bu bizim için gerçekten çok şey ifade edecek",
-				"uk": "Престижна премія Pocket Gamer Mobile Games Awards відкриває фазу номінацій! Якщо вам подобаються наші ігри, будь ласка, номінуйте нас як найкращого інді-розробника - це справді матиме для нас велике значення",
-				"vi": "Giải thưởng trò chơi di động Pocket Gamer uy tín mở ra giai đoạn đề cử! Nếu bạn thích trò chơi của chúng tôi, vui lòng đề cử chúng tôi làm Nhà phát triển độc lập xuất sắc nhất - điều này thực sự có ý nghĩa rất lớn đối với chúng tôi"
+				"cs": "Prestižní ocenění Pocket Gamer Mobile Games Awards otevírá svou nominační fázi! Pokud se vám naše hry líbí, nominujte nás prosím jako nejlepšího nezávislého vývojáře – bude to pro nás skutečně hodně znamenat"
 			},
 			"answers":[
 				{
 					"text":{
-						"cs": "Jak nominovat",
-						"de": "So nominieren Sie",
-						"en": "How to nominate",
-						"es": "Cómo nominar",
-						"fr": "Comment présenter une candidature",
-						"hu": "Hogyan kell jelölni",
-						"id": "Bagaimana cara mencalonkannya",
-						"it": "Come candidarsi",
-						"ms": "Bagaimana untuk mencalonkan",
-						"nl": "Hoe te nomineren",
-						"pl": "Jak nominować",
-						"pt": "Como nomear",
-						"ro": "Cum să nominalizezi",
-						"ru": "Как номинировать",
-						"sk": "Ako nominovať",
-						"tr": "Nasıl aday gösterilir?",
-						"uk": "Як номінувати",
-						"vi": "Cách đề cử"
+						"cs": "Jak nominovat"
 					},
 					"link": "https://www.airapport.com/2024/05/will-you-nominate-airapport-as-best.html"
 				}	
