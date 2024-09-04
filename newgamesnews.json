@@ -919,6 +919,30 @@
 				{
 					"text":{"en":"Part 4"},
 					"link": "https://www.youtube.com/watch?v=sn2_sLnMLNA"
+				},
+				{
+					"text":{"en":"Part 5"},
+					"link": "https://www.youtube.com/watch?v=IZ1hP-3VXu4"
+				},
+				{
+					"text":{"en":"Part 6"},
+					"link": "https://www.youtube.com/watch?v=gSdGVno1MQ8"
+				},
+				{
+					"text":{"en":"Part 7"},
+					"link": "https://www.youtube.com/watch?v=Cy7FIsHa3qY"
+				},
+				{
+					"text":{"en":"Part 8"},
+					"link": "https://www.youtube.com/watch?v=CMdSl_D7Hvo"
+				},
+				{
+					"text":{"en":"Part 9"},
+					"link": "https://www.youtube.com/watch?v=dIBGcAZn_BY"
+				},
+				{
+					"text":{"en":"Part 10"},
+					"link": "https://www.youtube.com/watch?v=6Z0iN5xY2Hw"
 				}
 			],
 			"isObsolete":"false"
@@ -960,6 +984,43 @@
 				}	
 			],
 			"isObsolete":"true"
+		},
+		{
+			"games":["12"],
+			"uid":"farmrce",
+			"intuid":46,
+			"caption":{
+				"en":"Real Civil Engineer plays Farm and Mine"
+			},
+			"message":{
+				"en":"Real Civil Engineer released an awesome review of Farm and Mine! Make sure to check it and you'll find useful bonus codes inside. And don't forget to like and subscribe to the Youtube channel to see more content in the future :)"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch!"},
+					"link": "https://www.youtube.com/watch?v=oNWHwH0ELdo"
+				}
+			],
+			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"excludedgames":[""],
+			"uid":"rcefarmfromtower",
+			"intuid":47,
+			"caption":{
+				"en":"Real Civil Engineer plays Farm and Mine"
+			},
+			"message":{
+				"en":"Remember a great review of Idle Tower Builder by Real Civil Engineer? Now this awesome youtuber found our Farm and Mine game and reviewed it as well! Take a look at the game and watch the video, like, subscribe, and find cool bonus codes to boost your progress in our newest game!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch & Find Codes!"},
+					"link": "https://www.youtube.com/watch?v=oNWHwH0ELdo"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
