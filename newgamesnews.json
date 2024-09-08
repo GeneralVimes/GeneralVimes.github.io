@@ -1021,6 +1021,24 @@
 				}
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["12"],
+			"uid":"farmintern",
+			"intuid":48,
+			"caption":{
+				"en":"Intern plays Farm and Mine"
+			},
+			"message":{
+				"en":"Make sure to check the great review of Farm and Mine by InterndotGif! I added a comment with some cool bonus codes - find them and use them to boost your progress ;)"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch video!"},
+					"link": "https://www.youtube.com/watch?v=V_yJm7I-HBE"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
