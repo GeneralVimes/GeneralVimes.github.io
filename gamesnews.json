@@ -614,6 +614,27 @@
 			},
 			"link":"https://www.pocketgamer.com/peoples-choice-2024/nominate/",
 			"mustSkip":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"1p2",
+			"caption":{
+				"en":"New puzzle game!","uk":"Нова головоломка!"
+			},
+			"message":{
+				"en":"Please, test our new puzzle game in which you have to think outside of the box",
+				"uk":"Будь ласка, потестуйте нашу нову головоломку, у якій треба нестандартно мислити"
+			},
+			"answer":{
+				"en":"One Plus Two = 3",
+				"uk":"Один плюс два = 3"
+			},
+			"link":"https://www.airapport.com/2024/11/one-plus-two-3-test-our-newest-puzzle.html",
+			"platformLinks":{
+				"iOS":"https://apps.apple.com/us/app/one-plus-two-3/id1473746933",
+				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.nemters"
+			},
+			"mustSkip":"false"
 		}
 		
 	]

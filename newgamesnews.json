@@ -127,7 +127,7 @@
 			},
 			"message":{
 				"en":"In our game 20000 Cogs under the sea you can build many incredible contraptions and discover treasures on the sea bed",
-				"ru":"В нашей игре 20000 шестерйнок под водой вы можете строить разнообразные невероятные приспособления и находить сокровища на дне морском"
+				"ru":"В нашей игре 20000 шестерёнок под водой вы можете строить разнообразные невероятные приспособления и находить сокровища на дне морском"
 			},
 			"answers":[
 				{
@@ -1067,6 +1067,35 @@
 					"text":{"en":"Update"},
 					"link":	"https://airapport.itch.io/farm-and-mine",
 					"platforms":["Itch"]								
+				}
+			],
+			"isObsolete":"true"
+		},
+		{
+			"games":["all"],
+			"uid":"1p2",
+			"intuid":50,
+			"caption":{
+				"en":"New puzzle game!",
+				"uk":"Нова головоломка!"
+			},
+			"message":{
+				"en":"Please, test our new puzzle game in which you have to think outside of the box",
+				"uk":"Будь ласка, потестуйте нашу нову головоломку, у якій треба нестандартно мислити"
+			},
+			"answers":[
+				{
+					"text":{"en":"App Store"},
+					"link": "https://apps.apple.com/us/app/one-plus-two-3/id1473746933",
+					"platforms":["all"],
+					"excludedplatforms":["Google"]
+				},
+				
+				{
+					"text":{"en":"Google Play"},
+					"link":	"https://play.google.com/store/apps/details?id=air.com.airapport.nemters",
+					"platforms":["all"],
+					"excludedplatforms":["Apple"]									
 				}
 			],
 			"isObsolete":"false"
