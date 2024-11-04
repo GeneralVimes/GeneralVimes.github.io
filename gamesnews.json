@@ -568,7 +568,7 @@
 						"cs": "Zkus to"
 					},
 			"link":"https://vm.tiktok.com/ZM6dVfmmo/",
-			"mustSkip":"false"
+			"mustSkip":"true"
 		},
 		{
 			"games":["all"],
@@ -583,7 +583,7 @@
 				"en":"Do it!"
 			},
 			"link":"https://www.airapport.com/2024/02/we-stand-with-ukraine-and-we-ask-you.html",
-			"mustSkip":"true"
+			"mustSkip":"false"
 		},
 		{
 			"games":["all"],
