@@ -635,6 +635,21 @@
 				"GooglePlay":"https://play.google.com/store/apps/details?id=air.com.airapport.nemters"
 			},
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"war3years",
+			"caption":{
+				"en":"Direct ways to support Ukrainian defenders"
+			},
+			"message":{
+				"en":"Dear friends and players of Airapport games! As you know, we live in Ukraine. Our country withstands a lasting unprovoked aggression from Russia, one of the states which guaranteed Ukraine's safety according to nuclear disarmament memorandum of 1994.\n\nAfter 3 years of full-scale invasion it is a matter of life importance to keep and even increase the help which will directly empower the ability of Ukrainian defense forces to protect us all. In our blog post we list the funds which provide vital supplies right to them."
+			},
+			"answer":{
+				"en":"Read"
+			},
+			"link":"https://www.airapport.com/2025/03/direct-ways-to-support-defenders-of.html",
+			"mustSkip":"false"
 		}
 		
 	]
