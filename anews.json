@@ -447,6 +447,27 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream3",
+			"caption":{
+				"en":"Steampunk Idle Spinner: Streaming marathon and Steam page"
+			},
+			"message":{
+				"en":"Our first incremental game, Steampunk Idle Spinner, received its Steam page! And I am going to spend 30 minutes every day with you on a streaming marathon playing the game and discussing its future content"
+			},
+			"answers":[
+				{
+					"text":{"en":"Join stream"},
+					"link": "https://www.youtube.com/watch?v=yMH8s9bNUBU&list=PLU_iW_uK7HGQSKYeX_JHKyyQVSYAsBLxx&index=1"
+				},
+				{
+					"text":{"en":"Wishlist on Steam"},
+					"link": "https://store.steampowered.com/app/3749540/Steampunk_Idle_Spinner/"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }

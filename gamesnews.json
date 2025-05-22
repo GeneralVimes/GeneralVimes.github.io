@@ -650,6 +650,21 @@
 			},
 			"link":"https://www.airapport.com/2025/03/direct-ways-to-support-defenders-of.html",
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream3",
+			"caption":{
+				"en":"Steampunk Idle Spinner: Streaming marathon and Steam page"
+			},
+			"message":{
+				"en":"Our first incremental game, Steampunk Idle Spinner, received its Steam page! And I am going to spend 30 minutes every day with you on a streaming marathon playing the game and discussing its future content"
+			},
+			"answer":{
+				"en":"Join stream"
+			},
+			"link":"https://www.youtube.com/watch?v=yMH8s9bNUBU&list=PLU_iW_uK7HGQSKYeX_JHKyyQVSYAsBLxx&index=1",
+			"mustSkip":"false"
 		}
 		
 	]
