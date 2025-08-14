@@ -468,6 +468,25 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"steamsteampunk",
+			"caption":{
+				"en":"Steampunk Idle Spinner released on Steam!",
+				"uk":"Steampunk Idle Spinner вийшов на Steam!"
+			},
+			"message":{
+				"en":"Seven worlds full of incredible contraptions in a single game! Releasing it as a part of Ukrainian Games Festival. Have fun!",
+				"uk":"Сім світів повних чудернацьких механізмів у одній грі! Випускаємо її як частину Фестивалі українських ігор. Долучайтеся!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Get the game","uk":"Скачати гру"},
+					"link": "https://store.steampowered.com/app/3749540/Steampunk_Idle_Spinner/"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }

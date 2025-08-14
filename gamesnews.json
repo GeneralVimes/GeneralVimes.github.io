@@ -665,6 +665,24 @@
 			},
 			"link":"https://www.youtube.com/watch?v=yMH8s9bNUBU&list=PLU_iW_uK7HGQSKYeX_JHKyyQVSYAsBLxx&index=1",
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"steamsteampunk",
+			"caption":{
+				"en":"Steampunk Idle Spinner released on Steam!",
+				"uk":"Steampunk Idle Spinner вийшов на Steam!"
+			},
+			"message":{
+				"en":"Seven worlds full of incredible contraptions in a single game! Releasing it as a part of Ukrainian Games Festival. Have fun!",
+				"uk":"Сім світів повних чудернацьких механізмів у одній грі! Випускаємо її як частину Фестивалі українських ігор. Долучайтеся!"
+			},
+			"answer":{
+				"en":"Get the game",
+				"uk":"Скачати гру"
+			},
+			"link":"https://store.steampowered.com/app/3749540/Steampunk_Idle_Spinner/",
+			"mustSkip":"false"			
 		}
 		
 	]
