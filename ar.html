@@ -17,16 +17,16 @@
       <a-marker preset="hiro">
           <!-- 2. Все, що знаходиться всередині <a-marker>, буде відображено 
                на ньому. Позиція (0, 0, 0) - це центр маркера. -->
-      	<a-entity
+
+        <a-entity
       		id="textArea"
       		position="0 0 0"
-          rotation = "90 0 0"
+          rotation = "-90 0 0"
       		geometry="primitive: plane; width: 3; height:auto"
       		material="color: #444444; transparent: true; opacity: 0.80;"
       		text="anchor: center; baseline: center; wrapCount: 20;
       				transparent: true; opacity: 0.90; color: #AAAAFF;
-      				value: Test Text"
-      		updater>
+      				value: 'Розклад на сьогодні:\n\n4 пара ARVR\n5 пара ARVR\n6 пара Laravel'">
       	</a-entity>
       </a-marker>
 
