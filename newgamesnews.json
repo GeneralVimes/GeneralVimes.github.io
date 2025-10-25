@@ -1159,6 +1159,24 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["12"],
+			"uid":"farmcub",
+			"intuid":54,
+			"caption":{
+				"en":"Idle Cub plays Farm and Mine"
+			},
+			"message":{
+				"en":"Please check this awesome and detailed video of Farm and Mine made by incredible Idle Cub! And find exclusive bonus codes for yourselves in the comments ;) Like and subscription are also highly encouraged :)"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch, like and subscribe!"},
+					"link": "https://www.youtube.com/watch?v=1gtBWPT-clI"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
