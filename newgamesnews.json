@@ -1177,6 +1177,24 @@
 				}
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["11"],
+			"uid":"towercub",
+			"intuid":55,
+			"caption":{
+				"en":"Idle Cub plays Idle Tower Builder"
+			},
+			"message":{
+				"en":"Please check this awesome and detailed video of Idle Tower Buildermade by incredible Idle Cub! And find exclusive bonus codes for yourselves in the comments ;) Like and subscription are also highly encouraged :)"
+			},
+			"answers":[
+				{
+					"text":{"en":"Watch, like and subscribe!"},
+					"link": "https://www.youtube.com/watch?v=U0xFNeYS1RU"
+				}
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
