@@ -683,6 +683,21 @@
 			},
 			"link":"https://store.steampowered.com/app/3749540/Steampunk_Idle_Spinner/",
 			"mustSkip":"false"			
+		},
+		{
+			"games":["all"],
+			"uid":"stream2p13",
+			"caption":{
+				"en":"Let's solve puzzles about number 2026"
+			},
+			"message":{
+				"en":"Hello and Happy 2026! Let's meet at the new streaming marathon where we will solve puzzles from our game 'One Plus Two = 3' and discuss ideas for other Airapport games"
+			},
+			"answer":{
+				"en":"Join stream"
+			},
+			"link":"https://www.youtube.com/watch?v=biRbEGIcg1M&list=PLU_iW_uK7HGQZJzQTfO3kDNi8ZKDQ7h5j",
+			"mustSkip":"false"
 		}
 		
 	]

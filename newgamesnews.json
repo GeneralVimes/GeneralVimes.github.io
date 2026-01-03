@@ -1195,6 +1195,28 @@
 				}
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"stream2p13",
+			"intuid":56,
+			"caption":{
+				"en":"Let's solve puzzles about number 2026"
+			},
+			"message":{
+				"en":"Hello and Happy 2026! Let's meet at the new streaming marathon where we will solve puzzles from our game 'One Plus Two = 3' and discuss ideas for other Airapport games"
+			},
+			"answers":[
+				{
+					"text":{"en":"Join stream"},
+					"link": "https://www.youtube.com/watch?v=biRbEGIcg1M&list=PLU_iW_uK7HGQZJzQTfO3kDNi8ZKDQ7h5j"
+				},
+				{
+					"text":{"en":"Solve puzzles"},
+					"link": "https://airapport.itch.io/one-plus-two-3"
+				}	
+			],
+			"isObsolete":"false"
 		}		
 	]
 }
