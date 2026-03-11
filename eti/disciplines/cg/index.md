@@ -18,7 +18,7 @@
 
 [Лабораторні роботи](https://docs.google.com/document/d/108JED5IqREp5e8kfP_xUR078wkN0JfeVXoHbZHBU1ng/edit?tab=t.0#bookmark=id.6vhhzjwirgli)
 
-## ЗЗмістовий модуль 2. Інструментарій створення 2D-графіки
+## Змістовий модуль 2. Інструментарій створення 2D-графіки
 
 ### ТЕМА 2.1. Введення в Inkscape
 
