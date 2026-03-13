@@ -20,7 +20,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.yx601sk2x9rk)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.20cn8rzc9t4v)
 
 ### Тема 1.3. Функції та модульність коду
 5л		5п 	6с
@@ -30,7 +30,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.571ysgwjlqar)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.wy6igd1vbzfe)
 
 ## Змістовий модуль 2. Алгоритми обробки даних
 
@@ -50,7 +50,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.bfogadyuqxei)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.3ddct97jy8fe)
 
 ### Тема 2.3. Обробка числових даних
 5л		5п 	6с
@@ -60,7 +60,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.1xsooztnhlel)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.3o68p3ms2l99)
 
 ## Змістовий модуль 3. Оптимізаційні алгоритми
 
@@ -80,7 +80,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.djhmukjjrthm)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.nnzihvih0een)
 
 ### ТЕМА 3.3. Динамічне програмування
 2л		5п 	2с
@@ -90,7 +90,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.cnvdprkau3dv)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.e8afxth7oskn)
 
 ### Тема 3.4. Жадібні алгоритми
 1л		0п 	8с
@@ -118,7 +118,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.j20am6ci7gf)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.62up73ycq3wr)
 
 ### Тема 4.3. Хешування
 2л		5п 	2с
@@ -128,7 +128,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.bfgin2dyux01)
 
-[Практичні роботи]()
+[Лабораторні роботи](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.a0bsdwmsagcf)
 
 ### Тема 4.4. Стеганографія
 1л		0п 	8с
@@ -138,6 +138,6 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.vixpqwlf4z82)
 
-[Питання для самопідготовки]()
+[Питання для самопідготовки](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.t2ksj49oqwm8)
 
-[Джерела]()
+[Джерела](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.pz3ue3ooc3sp)
