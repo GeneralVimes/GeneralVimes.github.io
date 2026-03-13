@@ -141,6 +141,18 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/125Mvz7gPSRbeCuM3lZGvpeGrppOJFCKfeqeGOaiJQ3c/edit?tab=t.0#bookmark=id.f2jgc8ortccu)
 
+## Кориисні матеріали
+
 [Питання для самопідготовки](https://docs.google.com/document/d/125Mvz7gPSRbeCuM3lZGvpeGrppOJFCKfeqeGOaiJQ3c/edit?tab=t.0#bookmark=id.uk3xsrps1h0v)
 
 [Джерела](https://docs.google.com/document/d/125Mvz7gPSRbeCuM3lZGvpeGrppOJFCKfeqeGOaiJQ3c/edit?tab=t.0#bookmark=id.wonkycwqveyp)
+
+[Навчальні відео](https://www.youtube.com/playlist?list=PLU_iW_uK7HGRDNcatNHN4eoAaqIxSYGM5)
+
+[Репозиторій з кросплатформеними налаштуванням](https://github.com/GeneralVimes/AIR-FD-CP-setup)
+
+[Репозиторій зі скриптами портування](https://github.com/GeneralVimes/AS32JS)
+
+[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkoviNEW/Kros-platformne_prohr.pdf)
+
+[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP_NEW/KROS-PLATFORMNE_PROHRAMUVANNIa.pdf)

@@ -138,6 +138,16 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.vixpqwlf4z82)
 
+## Кориисні матеріали
+
 [Питання для самопідготовки](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.t2ksj49oqwm8)
 
 [Джерела](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.pz3ue3ooc3sp)
+
+[Репозиторій](https://github.com/GeneralVimes/ProgrammingPythonKN23)
+
+[Навчальні відео](https://www.youtube.com/watch?v=ydgRQDBZqWw)
+
+[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkoviNEW/Prohramuvannia.pdf)
+
+[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP_NEW/PROHRAMUVANNIa.pdf)

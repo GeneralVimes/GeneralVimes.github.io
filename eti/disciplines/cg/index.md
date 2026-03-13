@@ -138,6 +138,16 @@
 
 тема виноситься на самостійне опрацювання
 
+## Кориисні матеріали
+
 [Питання для самопідготовки](https://docs.google.com/document/d/108JED5IqREp5e8kfP_xUR078wkN0JfeVXoHbZHBU1ng/edit?tab=t.0#bookmark=id.blgrmi925c3v)
 
 [Джерела](https://docs.google.com/document/d/108JED5IqREp5e8kfP_xUR078wkN0JfeVXoHbZHBU1ng/edit?tab=t.0#bookmark=id.42dxn6s9i8i1)
+
+[Навчальні відео](https://www.youtube.com/playlist?list=PLU_iW_uK7HGQOmDCxHxDMSLtYooNU_VM0)
+
+[Слайди](http://bit.ly/3U9ZTlP)
+
+[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkoviNEW/Kompiuterna_hrafika.pdf)
+
+[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP_NEW/KOMPIuTERNA_HRAFIKA.pdf)
