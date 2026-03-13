@@ -138,7 +138,6 @@
 1.	Тестування скриптів на різних платформах.
 2.	Методи оптимізації коду скриптів.
 3.	Впровадження логування та обробки помилок.
- ює
 
 [Лекційний матеріал](https://docs.google.com/document/d/125Mvz7gPSRbeCuM3lZGvpeGrppOJFCKfeqeGOaiJQ3c/edit?tab=t.0#bookmark=id.f2jgc8ortccu)
 
