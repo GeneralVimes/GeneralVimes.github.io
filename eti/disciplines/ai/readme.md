@@ -138,7 +138,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1MliUlleRH7UjWE51QxgpBZ7e8bC_A0UQS1FjTcgvsBM/edit?tab=t.0#bookmark=id.25vugl7qyxn1)
 
-## Кориисні матеріали
+## Корисні матеріали
 
 [Питання для самопідготовки](https://docs.google.com/document/d/1MliUlleRH7UjWE51QxgpBZ7e8bC_A0UQS1FjTcgvsBM/edit?tab=t.0#bookmark=id.ocr76nd569mc)
 
@@ -148,6 +148,6 @@
 
 [Навчальні відео](https://www.youtube.com/watch?v=r8ADdcH4QQY)
 
-[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkoviNEW/Metody_ta_systemy_ShI.pdf)
+[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkovi2/Metody_ta_systemy_ShI.pdf)
 
-[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP_NEW/METODY_TA_SYSTEMY_ShTUChNOHO_INTELEKTU.pdf)
+[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP2026/RP_AI.pdf)

@@ -138,7 +138,7 @@
 
 [Лекційний матеріал](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.vixpqwlf4z82)
 
-## Кориисні матеріали
+## Корисні матеріали
 
 [Питання для самопідготовки](https://docs.google.com/document/d/1OiSlQx-xMkJCib5Iyd-KIml1DEaF-1sMKU_ad7SR38k/edit?tab=t.0#bookmark=id.t2ksj49oqwm8)
 
@@ -148,6 +148,6 @@
 
 [Навчальні відео](https://www.youtube.com/watch?v=ydgRQDBZqWw)
 
-[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkoviNEW/Prohramuvannia.pdf)
+[Силабус](https://eti.edu.ua/images/Vasylieva/IT/silabusi/oboviazkovi2/Prohramuvannya.pdf)
 
-[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP_NEW/PROHRAMUVANNIa.pdf)
+[Робоча програма](https://eti.edu.ua/images/Vasylieva/IT/RP/RP2026/RP_prog.pdf)
