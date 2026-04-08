@@ -1217,6 +1217,24 @@
 				}	
 			],
 			"isObsolete":"false"
-		}		
+		},
+		{
+			"games":["all"],
+			"uid":"streamtowerach",
+			"intuid":57,
+			"caption":{
+				"en":"We return to Idle Tower Builder after 3 years!"
+			},
+			"message":{
+				"en":"We played Idle Tower Builder during a streaming marathon in 2023. Since then the game received lots of new content: helpers, TODO-list, achievements, highscores. We will open the 3-years-old save file, explore new content and earn all achievements!"
+			},
+			"answers":[
+				{
+					"text":{"en":"Join stream"},
+					"link": "https://www.youtube.com/watch?v=R2PWZYzPBuc"
+				}	
+			],
+			"isObsolete":"false"
+		}
 	]
 }
