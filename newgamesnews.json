@@ -1235,6 +1235,24 @@
 				}	
 			],
 			"isObsolete":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"war1626days",
+			"intuid":58,
+			"caption":{
+				"en":"Our country needs air protection"
+			},
+			"message":{
+				"en":"As of now, Ukraine is standing for 1626 days against the invasion of the biggest country in the world. But terrorussians are using ballistic missiles against Ukrainian cities and people, and there is no defense against it.\n\nIt seems like the other countries are just spectating and doing nothing :(... \n\nWe ask you, our friends from the whole world - please, reach out to your governments and ask simple question - what can they do to protect people here in Ukraine against Russian strikes?"
+			},
+			"answers":[
+				{
+					"text":{"en":"Our blog post"},
+					"link": "https://www.airapport.com/2026/08/bonus-codes-for-airapport-games-valid.html"
+				}	
+			],
+			"isObsolete":"false"
 		}
 	]
 }
