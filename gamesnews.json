@@ -713,6 +713,21 @@
 			},
 			"link":"https://www.airapport.com/2026/08/bonus-codes-for-airapport-games-valid.html",
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"streamflash",
+			"caption":{
+				"en":"Join our Flash Games LiveStream!"
+			},
+			"message":{
+				"en":"We made our first Flash game 16 years ago and released over 20 of them during 2010s. So it's time to look at these games again. Let's start a livestream, play games, discuss them and see, how they can be reimagined in the modern times"
+			},
+			"answer":{
+				"en":"Watch stream"
+			},
+			"link":"https://www.youtube.com/watch?v=IEgDyMYCtNA&list=PLcm1dDplJh80",
+			"mustSkip":"false"
 		}
 		
 	]
