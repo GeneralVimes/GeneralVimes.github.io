@@ -728,6 +728,21 @@
 			},
 			"link":"https://www.youtube.com/watch?v=IEgDyMYCtNA&list=PLcm1dDplJh80",
 			"mustSkip":"false"
+		},
+		{
+			"games":["all"],
+			"uid":"streamugf26",
+			"caption":{
+				"en":"Do you have Steam account?"
+			},
+			"message":{
+				"en":"Our first idle game, Steampunk Idle Spinner, participates in the Ukrainian Games Festival 2026! It has 7 worlds of steampunk contraptions. You can get the game now and watch our stream where we will share gameplay secrets, answer your questions and discuss ideas for the future updates"
+			},
+			"answer":{
+				"en":"Open Steam"
+			},
+			"link":"https://store.steampowered.com/app/3749540/Steampunk_Idle_Spinner/?curator_clanid=38747278",
+			"mustSkip":"false"
 		}
 		
 	]
